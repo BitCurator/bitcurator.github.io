@@ -6,7 +6,12 @@ Additional information, user documentation, and community contributions can be f
 ***
 
 ### BitCurator NLP Tools
-https://github.com/BitCurator/bitcurator-nlp-tools
+
+The BitCurator NLP project includes several repositories. The topic model generation environment (bitcurator-nlp-gentm) enables automatic extraction of text from heterogeneous document collections within disk images to generate user-browsable topic models within a web browser. The disk browsing environment (bitcurator-access-webtools) provides full-text browsing of documents contained within disk images, along with (in progress) analysis of entities identified within those documents. Various command-line tools are provided in another repository (bitcurator-nlp-entspan).
+
+https://github.com/BitCurator/bitcurator-nlp-gentm
+https://github.com/BitCurator/bitcurator-access-webtools
+https://github.com/BitCurator/bitcurator-nlp-entspan
 
 ### BitCurator Access Webtools
 
