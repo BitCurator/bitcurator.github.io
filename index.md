@@ -3,7 +3,6 @@ The BitCurator group on GitHub is the primary store for all source code and deve
 Additional information, user documentation, and community contributions can be found on the BitCurator wiki at http://wiki.bitcurator.net/. Ongoing support is provided by members of the BitCurator Consortium (https://www.bitcuratorconsortium.org/).
 
 ## Projects
-***
 
 ### BitCurator NLP Tools
 
@@ -41,14 +40,14 @@ A script to dockerize bulk_extractor for use in an iRODS-related workflow was pr
 https://github.com/BitCurator/bitcurator-docker-builds
 
 ## Contributors
-***
+
 Members of the BitCurator group on GitHub are listed below (alphabetical order). Interested in being added as a member? Message the group!
 
-Greg Jansen (@gregjansen) - Independent contractor<br>
-Sunitha Misra (@sunithamisra) - Software developer, BitCurator<br>
-Carl Wilson (@carlwilson) - Technical Lead, Open Preservation Foundation<br>
-Kam Woods (@kamwoods) - Technical Lead, BitCurator<br>
+Greg Jansen (@gregjansen) - Independent contractor
+Sunitha Misra (@sunithamisra) - Software developer, BitCurator
+Carl Wilson (@carlwilson) - Technical Lead, Open Preservation Foundation
+Kam Woods (@kamwoods) - Technical Lead, BitCurator
 
 ## Support
-***
+
 User [documentation](http://wiki.bitcurator.net/) can be found on our master wiki.
