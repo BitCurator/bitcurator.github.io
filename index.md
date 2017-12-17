@@ -44,8 +44,11 @@ A script to dockerize bulk_extractor for use in an iRODS-related workflow was pr
 Members of the BitCurator group on GitHub are listed below (alphabetical order). Interested in being added as a member? Message the group!
 
 Greg Jansen (@gregjansen) - Independent contractor
+
 Sunitha Misra (@sunithamisra) - Software developer, BitCurator
+
 Carl Wilson (@carlwilson) - Technical Lead, Open Preservation Foundation
+
 Kam Woods (@kamwoods) - Technical Lead, BitCurator
 
 ## Support
