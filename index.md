@@ -4,13 +4,21 @@ Additional information, user documentation, and community contributions can be f
 
 ## Projects
 
-### BitCurator NLP Tools
+### BitCurator Environment
 
-The BitCurator NLP project includes several repositories. The topic model generation environment (bitcurator-nlp-gentm) enables automatic extraction of text from heterogeneous document collections within disk images to generate user-browsable topic models within a web browser. The disk browsing environment (bitcurator-access-webtools) provides full-text browsing of documents contained within disk images, along with (in progress) analysis of entities identified within those documents. Various command-line tools are provided in another repository (bitcurator-nlp-entspan).
+The BitCurator Environment (Live CD / Installation CD) is comprised of several repositories (two of which, -adduser and -metadata, are optional). End users should not clone or attempt to build these repositories; the current release can be found at http://wiki.bitcurator.net/. Developers should first consult the README in bitcurator-distro for information regarding contributions (test builds, pull requests, and other modifictions). Note that some older repositories are deprecated.
 
-[https://github.com/BitCurator/bitcurator-nlp-gentm](https://github.com/BitCurator/bitcurator-nlp-gentm)
-[https://github.com/BitCurator/bitcurator-access-webtools](https://github.com/BitCurator/bitcurator-access-webtools)
-[https://github.com/BitCurator/bitcurator-nlp-entspan](https://github.com/BitCurator/bitcurator-nlp-entspan)
+Current repositories:
+
+[https://github.com/BitCurator/bitcurator-distro](https://github.com/BitCurator/bitcurator-distro)
+[https://github.com/BitCurator/bitcurator-distro-salt](https://github.com/BitCurator/bitcurator-distro-salt)
+[https://github.com/BitCurator/bitcurator-distro-adduser](https://github.com/BitCurator/bitcurator-distro-adduser)
+[https://github.com/BitCurator/bitcurator-distro-metadata](https://github.com/BitCurator/bitcurator-distro-metadata)
+
+Older (deprecated) repositories:
+
+[https://github.com/BitCurator/bitcurator-distro-main](https://github.com/BitCurator/bitcurator-distro-main)
+[https://github.com/BitCurator/bitcurator-distro-bootstrap](https://github.com/BitCurator/bitcurator-distro-bootstrap)
 
 ### BitCurator Access Webtools
 
@@ -24,14 +32,13 @@ The BitCurator Access Redaction tools project is comprised of a single repositor
 
 [https://github.com/BitCurator/bitcurator-access-redaction](https://github.com/BitCurator/bitcurator-access-redaction)
 
-### BitCurator Environment
+### BitCurator NLP Tools
 
-The BitCurator Environment (Live CD / Installation CD) is comprised of four repositories (two of which, -adduser and -metadata, are optional). End users should not clone or attempt to build these repositories; the current release can be found at http://wiki.bitcurator.net/. Developers should first consult the README in bitcurator-distro-main for information regarding contributions (test builds, pull requests, and other modifictions).
+The BitCurator NLP project includes several repositories. The topic model generation environment (bitcurator-nlp-gentm) enables automatic extraction of text from heterogeneous document collections within disk images to generate user-browsable topic models within a web browser. The disk browsing environment (bitcurator-access-webtools) provides full-text browsing of documents contained within disk images, along with (in progress) analysis of entities identified within those documents. Various command-line tools are provided in another repository (bitcurator-nlp-entspan).
 
-[https://github.com/BitCurator/bitcurator-distro-main](https://github.com/BitCurator/bitcurator-distro-main)
-[https://github.com/BitCurator/bitcurator-distro-bootstrap](https://github.com/BitCurator/bitcurator-distro-bootstrap)
-[https://github.com/BitCurator/bitcurator-distro-adduser](https://github.com/BitCurator/bitcurator-distro-adduser)
-[https://github.com/BitCurator/bitcurator-distro-metadata](https://github.com/BitCurator/bitcurator-distro-metadata)
+[https://github.com/BitCurator/bitcurator-nlp-gentm](https://github.com/BitCurator/bitcurator-nlp-gentm)
+[https://github.com/BitCurator/bitcurator-access-webtools](https://github.com/BitCurator/bitcurator-access-webtools)
+[https://github.com/BitCurator/bitcurator-nlp-entspan](https://github.com/BitCurator/bitcurator-nlp-entspan)
 
 ### Dockerization scripts
 
