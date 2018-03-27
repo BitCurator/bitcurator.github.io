@@ -1,7 +1,7 @@
 title: BitCurator
 description: Software produced for the BitCurator family of research projects (BitCurator, BitCurator Access, BitCurator NLP).
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
