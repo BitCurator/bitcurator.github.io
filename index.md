@@ -1,6 +1,6 @@
 The BitCurator group on GitHub is the primary store for all source code and development documentation developed as part of the Andrew W. Mellon Foundation funded BitCurator NLP (2016-2018), BitCurator Access (2014-2016), and BitCurator (2011-2014) projects.
 
-Additional information, user documentation, and community contributions can be found on the BitCurator wiki at [https://wiki.bitcurator.net/](http://wiki.bitcurator.net/). Ongoing support is provided by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/).
+Additional information, user documentation, and community contributions to the BitCurator Environment can be found [on the BitCurator Environment wiki](https://confluence.educopia.org/display/BC). Ongoing support for the BitCurator Environment is provided by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/).
 
 ## Projects
 
@@ -57,7 +57,3 @@ Sunitha Misra (@sunithamisra) - Software developer, BitCurator
 Carl Wilson (@carlwilson) - Technical Lead, Open Preservation Foundation
 
 Kam Woods (@kamwoods) - Technical Lead, BitCurator
-
-## Support
-
-User [documentation](http://wiki.bitcurator.net/) can be found on our master wiki.
