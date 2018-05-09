@@ -1,4 +1,6 @@
-# BitCurator
+[![Logo](https://wiki.bitcurator.net/downloads/BitCurator-400px.png)
+
+# BitCurator GitHub Pages
 
 Visit https://bitcurator.github.io/ for more information about BitCurator, BitCurator Access, and BitCurator NLP. This site covers technical information related to the repositories, source code, and maintenance.
 
