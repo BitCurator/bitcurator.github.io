@@ -6,7 +6,9 @@ Additional information, user documentation, and community contributions to the B
 
 ### BitCurator Environment
 
-The BitCurator Environment (Live CD / Installation CD) is comprised of several repositories (two of which, -adduser and -metadata, are optional). End users should not clone or attempt to build these repositories; the current release can be found at http://wiki.bitcurator.net/. Developers should first consult the README in bitcurator-distro for information regarding contributions (test builds, pull requests, and other modifictions). Note that some older repositories are deprecated.
+The BitCurator Environment (Live CD / Installation CD) is comprised of several repositories (two of which, -adduser and -metadata, are optional). 
+
+Users looking for the latest release should visit https://github.com/BitCurator/bitcurator-distro/wiki/Releases to download the ISO or preconfigured virtual machine. Alternatively, check out the README at https://github.com/BitCurator/bitcurator-distro-salt to see how to build BitCurator in a stock Ubuntu install. Developers should first consult the README in bitcurator-distro for information regarding contributions (test builds, pull requests, and other modifictions). Note that some older repositories are deprecated.
 
 Current repositories:
 
@@ -40,20 +42,6 @@ The BitCurator NLP project includes several repositories. The topic model genera
 [https://github.com/BitCurator/bitcurator-access-webtools](https://github.com/BitCurator/bitcurator-access-webtools)
 [https://github.com/BitCurator/bitcurator-nlp-entspan](https://github.com/BitCurator/bitcurator-nlp-entspan)
 
-### Dockerization scripts
-
-A script to dockerize bulk_extractor for use in an iRODS-related workflow was produced in 2015. It can be found in the following repository.
-
-[https://github.com/BitCurator/bitcurator-docker-builds](https://github.com/BitCurator/bitcurator-docker-builds)
-
 ## Contributors
 
-Members of the BitCurator group on GitHub are listed below (alphabetical order). Interested in being added as a member? Message the group!
-
-Greg Jansen (@gregjansen) - Independent contractor
-
-Sunitha Misra (@sunithamisra) - Software developer, BitCurator
-
-Carl Wilson (@carlwilson) - Technical Lead, Open Preservation Foundation
-
-Kam Woods (@kamwoods) - Technical Lead, BitCurator
+BitCurator repositories are maintained by interested members of the community? Interested in being added as a member? Message the group, send a pull request, or send a note to the mailing list at https://groups.google.com/forum/#!forum/bitcurator-users.
