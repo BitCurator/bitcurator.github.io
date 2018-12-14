@@ -30,9 +30,10 @@ The BitCurator Access Webtools project is comprised of a single repository. The 
 
 ### BitCurator Access Redaction Tools
 
-The BitCurator Access Redaction tools project is comprised of a single repository. The README provides instructions for both end users and developers to clone and build from source.
+The BitCurator Access Redaction tools project is comprised of two repositories. The READMEs provide instructions for both end users and developers to clone and build from source.
 
 [https://github.com/BitCurator/bitcurator-access-redaction](https://github.com/BitCurator/bitcurator-access-redaction)
+[https://github.com/bitcurator/bitcurator-redact-pdf](https://github.com/bitcurator/bitcurator-redact-pdf)
 
 ### BitCurator NLP Tools
 
@@ -44,4 +45,4 @@ The BitCurator NLP project includes several repositories. The topic model genera
 
 ## Contributors
 
-BitCurator repositories are maintained by interested members of the community? Interested in being added as a member? Message the group, send a pull request, or send a note to the mailing list at https://groups.google.com/forum/#!forum/bitcurator-users.
+BitCurator repositories are maintained by interested members of the community. Interested in being added as a member? Message the group, send a pull request, or send a note to the mailing list at https://groups.google.com/forum/#!forum/bitcurator-users.
