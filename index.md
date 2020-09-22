@@ -6,14 +6,19 @@ Additional information, user documentation, and community contributions to the B
 
 ### BitCurator Environment
 
-The BitCurator Environment (Live CD / Installation CD) is comprised of several repositories (two of which, -adduser and -metadata, are optional). 
+The BitCurator Environment is built in an existing Ubuntu 18.04LTS install using several repositories. Several of these, including bitcurator-adduser and bitcurator-metadata, are optional. See below for more details.
 
-Users looking for the latest release should visit https://github.com/BitCurator/bitcurator-distro/wiki/Releases to download the ISO or preconfigured virtual machine. Alternatively, check out the README at https://github.com/BitCurator/bitcurator-distro-salt to see how to build BitCurator in a stock Ubuntu install. Developers should first consult the README in bitcurator-distro for information regarding contributions (test builds, pull requests, and other modifictions). Note that some older repositories are deprecated.
+Users looking for the latest release should visit https://github.com/BitCurator/bitcurator-distro/wiki/Releases to download the ISO or preconfigured virtual machine. Alternatively, check out the README at https://github.com/BitCurator/bitcurator-distro-installer or https://github.com/BitCurator/bitcurator-distro-salt to see how to build BitCurator in a stock Ubuntu 18.04LTS install. Developers should first consult the README in bitcurator-distro for information regarding contributions (test builds, pull requests, and other modifictions). Note that some older repositories are deprecated.
 
 Current repositories:
 
 [https://github.com/BitCurator/bitcurator-distro](https://github.com/BitCurator/bitcurator-distro)
+[https://github.com/BitCurator/bitcurator-distro-installer](https://github.com/BitCurator/bitcurator-distro-installer)
 [https://github.com/BitCurator/bitcurator-distro-salt](https://github.com/BitCurator/bitcurator-distro-salt)
+[https://github.com/BitCurator/bitcurator-distro-tools](https://github.com/BitCurator/bitcurator-distro-tools)
+
+Optional functionality and scripts:
+
 [https://github.com/BitCurator/bitcurator-distro-adduser](https://github.com/BitCurator/bitcurator-distro-adduser)
 [https://github.com/BitCurator/bitcurator-distro-metadata](https://github.com/BitCurator/bitcurator-distro-metadata)
 
@@ -45,4 +50,4 @@ The BitCurator NLP project includes several repositories. The topic model genera
 
 ## Contributors
 
-BitCurator repositories are maintained by interested members of the community. Interested in being added as a member? Message the group, send a pull request, or send a note to the mailing list at https://groups.google.com/forum/#!forum/bitcurator-users.
+BitCurator repositories are maintained by interested members of the community. Interested in being added as a member? Message the group, send a pull request, or send a note to the mailing list at https://groups.google.com/d/forum/bitcurator-users.
