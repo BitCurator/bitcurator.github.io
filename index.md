@@ -22,10 +22,6 @@ Optional functionality and scripts:
 [https://github.com/BitCurator/bitcurator-distro-adduser](https://github.com/BitCurator/bitcurator-distro-adduser)
 [https://github.com/BitCurator/bitcurator-distro-metadata](https://github.com/BitCurator/bitcurator-distro-metadata)
 
-Older (deprecated) repositories:
-
-[https://github.com/BitCurator/bitcurator-distro-main](https://github.com/BitCurator/bitcurator-distro-main)
-[https://github.com/BitCurator/bitcurator-distro-bootstrap](https://github.com/BitCurator/bitcurator-distro-bootstrap)
 
 ### BitCurator Access Webtools
 
@@ -50,4 +46,4 @@ The BitCurator NLP project includes several repositories. The topic model genera
 
 ## Contributors
 
-BitCurator repositories are maintained by interested members of the community. Interested in being added as a member? Message the group, send a pull request, or send a note to the mailing list at https://groups.google.com/d/forum/bitcurator-users.
+BitCurator repositories are maintained by volunteers in the community. Interested in participating? Message the group, send a pull request, or send a note to the mailing list at https://groups.google.com/d/forum/bitcurator-users.
