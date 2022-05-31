@@ -6,22 +6,36 @@ Additional information, user documentation, and community contributions to the B
 
 ### BitCurator Environment
 
-The BitCurator Environment is built in an existing Ubuntu 18.04LTS install using several repositories. Several of these, including bitcurator-adduser and bitcurator-metadata, are optional. See below for more details.
+The BitCurator Environment is a Ubuntu-based Linux distribution designed to assist collections professionals with media imaging, forensic-style analysis, and reporting tasks when working with digital collections. It can be installed into a clean Ubuntu LTS release, or downloaded as a pre-built VM.
 
-Users looking for the latest release should visit https://github.com/BitCurator/bitcurator-distro/wiki/Releases to download the ISO or preconfigured virtual machine. Alternatively, check out the README at https://github.com/BitCurator/bitcurator-distro-installer or https://github.com/BitCurator/bitcurator-distro-salt to see how to build BitCurator in a stock Ubuntu 18.04LTS install. Developers should first consult the README in bitcurator-distro for information regarding contributions (test builds, pull requests, and other modifictions). Note that some older repositories are deprecated.
 
-Current repositories:
+**To download the latest stable release, visit:**
+
+[https://github.com/BitCurator/bitcurator-distro/wiki/Releases](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) 
+
+
+**Stable repositories (Ubuntu 18.04LTS-based, BitCurator 2.x and earlier):**
 
 [https://github.com/BitCurator/bitcurator-distro](https://github.com/BitCurator/bitcurator-distro)
 [https://github.com/BitCurator/bitcurator-distro-installer](https://github.com/BitCurator/bitcurator-distro-installer)
 [https://github.com/BitCurator/bitcurator-distro-salt](https://github.com/BitCurator/bitcurator-distro-salt)
+
+Review the README at https://github.com/BitCurator/bitcurator-distro-installer or https://github.com/BitCurator/bitcurator-distro-salt to see how to build BitCurator in a stock Ubuntu 18.04LTS install. These repositories are in maintenance mode and will end-of-life in April 2023.
+
+
+**In-development repositories (Ubuntu 20.04LTS-based, BitCurator 3.x and later):**
+
+[https://github.com/BitCurator/bitcurator-cli](https://github.com/BitCurator/bitcurator-cli)
+[https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt)
+
+Review the README at https://github.com/BitCurator/bitcurator-salt to see how to build BitCurator in a stock Ubuntu 20.04LTS install.
+
+
+**Some additional PyQT4 tools developed for BitCurator may also be found at:**
+
 [https://github.com/BitCurator/bitcurator-distro-tools](https://github.com/BitCurator/bitcurator-distro-tools)
 
-Optional functionality and scripts:
-
-[https://github.com/BitCurator/bitcurator-distro-adduser](https://github.com/BitCurator/bitcurator-distro-adduser)
-[https://github.com/BitCurator/bitcurator-distro-metadata](https://github.com/BitCurator/bitcurator-distro-metadata)
-
+These tools are maintained for the 2.x and earlier releases, but are not currently being actively developed.
 
 ### BitCurator Access Webtools
 
