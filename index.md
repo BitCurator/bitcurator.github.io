@@ -20,7 +20,7 @@ The BitCurator Environment is a Ubuntu-based Linux distribution designed to assi
 [https://github.com/BitCurator/bitcurator-distro-installer](https://github.com/BitCurator/bitcurator-distro-installer)
 [https://github.com/BitCurator/bitcurator-distro-salt](https://github.com/BitCurator/bitcurator-distro-salt)
 
-Review the README at https://github.com/BitCurator/bitcurator-distro-installer or https://github.com/BitCurator/bitcurator-distro-salt to see how to build BitCurator in a stock Ubuntu 18.04LTS install. These repositories are in maintenance mode and will end-of-life in April 2023.
+Review the README at [https://github.com/BitCurator/bitcurator-distro-installer](https://github.com/BitCurator/bitcurator-distro-installer) or [https://github.com/BitCurator/bitcurator-distro-salt](https://github.com/BitCurator/bitcurator-distro-salt) to see how to build BitCurator in a stock Ubuntu 18.04LTS install. These repositories are in maintenance mode and will end-of-life in April 2023.
 
 
 **In-development repositories (Ubuntu 20.04LTS-based, BitCurator 3.x and later):**
@@ -28,7 +28,7 @@ Review the README at https://github.com/BitCurator/bitcurator-distro-installer o
 [https://github.com/BitCurator/bitcurator-cli](https://github.com/BitCurator/bitcurator-cli)
 [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt)
 
-Review the README at https://github.com/BitCurator/bitcurator-salt to see how to build BitCurator in a stock Ubuntu 20.04LTS install.
+Review the README at [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt) to see how to build BitCurator in a stock Ubuntu 20.04LTS install. Note: The 3.x releases of BitCurator have significant differences from the 2.x releases in terms of interface and tool availability, and are not yet fully documented.
 
 
 **Some additional PyQT4 tools developed for BitCurator may also be found at:**
@@ -60,4 +60,4 @@ The BitCurator NLP project includes several repositories. The topic model genera
 
 ## Contributors
 
-BitCurator repositories are maintained by volunteers in the community. Interested in participating? Message the group, send a pull request, or send a note to the mailing list at https://groups.google.com/d/forum/bitcurator-users.
+BitCurator repositories are maintained by volunteers in the community. Interested in participating? Message the group, send a pull request, or send a note to the mailing list at [https://groups.google.com/d/forum/bitcurator-users](https://groups.google.com/d/forum/bitcurator-users).
