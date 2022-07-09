@@ -27,6 +27,7 @@ Review the README at [https://github.com/BitCurator/bitcurator-distro-installer]
 
 [https://github.com/BitCurator/bitcurator-cli](https://github.com/BitCurator/bitcurator-cli)
 [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt)
+[https://github.com/BitCurator/bitcurator-docker](https://github.com/BitCurator/bitcurator-docker)
 
 Review the README at [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt) to see how to build BitCurator in a stock Ubuntu 20.04LTS install. Note: The 3.x releases of BitCurator have significant differences from the 2.x releases in terms of interface and tool availability, and are not yet fully documented.
 
