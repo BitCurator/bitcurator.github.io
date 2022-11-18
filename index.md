@@ -1,8 +1,8 @@
 The BitCurator group on GitHub is the primary store for all source code and development documentation developed as part of the Andrew W. Mellon Foundation funded BitCurator NLP (2016-2018), BitCurator Access (2014-2016), and BitCurator (2011-2014) projects.
 
-Additional information, user documentation, and community contributions to the BitCurator Environment can be found [on the BitCurator Environment wiki](https://confluence.educopia.org/display/BC). Ongoing support for the BitCurator Environment is provided by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/).
+For the most up-to-date documentation on the BitCurator Environment, visit our Releases page (linked in the next section). Community development is managed by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/). Community contributions, workflows, and other information can be found [on the Confluence site managed by Educopia](https://confluence.educopia.org/display/BC). 
 
-### BitCurator Environment
+## BitCurator Environment
 
 The BitCurator Environment is a Ubuntu-based Linux distribution designed to assist collections professionals with media imaging, forensic-style analysis, and reporting tasks when working with digital collections. It can be installed into a clean Ubuntu LTS release. Some releases can also be downloaded as a pre-built virtual appliance.
 
@@ -33,7 +33,7 @@ Review the README at [https://github.com/BitCurator/bitcurator-distro-installer]
 
 These tools were included with the 2.x and earlier releases, but are no longer maintained.
 
-## Other projects
+## Older (unmaintained) research projects
 
 ### BitCurator Access Webtools
 
