@@ -20,19 +20,6 @@ The BitCurator Environment is a Ubuntu-based Linux distribution designed to assi
 
 Review the README at [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt) to see how to build BitCurator in a stock Ubuntu 22.04LTS or 20.04LTS install. Note: The 4.x releases of BitCurator differ significantly from the 2.x releases in terms of interface and tool availability.
 
-**Older repositories (Ubuntu 18.04LTS-based, BitCurator 2.x and earlier):**
-
-[https://github.com/BitCurator/bitcurator-distro-installer](https://github.com/BitCurator/bitcurator-distro-installer)
-[https://github.com/BitCurator/bitcurator-distro-salt](https://github.com/BitCurator/bitcurator-distro-salt)
-
-Review the README at [https://github.com/BitCurator/bitcurator-distro-installer](https://github.com/BitCurator/bitcurator-distro-installer) or [https://github.com/BitCurator/bitcurator-distro-salt](https://github.com/BitCurator/bitcurator-distro-salt) to see how to build BitCurator in a stock Ubuntu 18.04LTS install. These repositories are no longer actively maintained, and will reach end-of-life in April 2023.
-
-**Legacy PyQT4 tools developed for BitCurator may also be found at:**
-
-[https://github.com/BitCurator/bitcurator-distro-tools](https://github.com/BitCurator/bitcurator-distro-tools)
-
-These tools were included with the 2.x and earlier releases, but are no longer maintained.
-
 ## Older (unmaintained) research projects
 
 ### BitCurator Access Webtools
