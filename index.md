@@ -20,7 +20,9 @@ The BitCurator Environment is a Ubuntu-based Linux distribution designed to assi
 
 Review the README at [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt) to see how to build BitCurator in a stock Ubuntu 22.04LTS or 20.04LTS install. Note: The 4.x releases of BitCurator differ significantly from the 2.x releases in terms of interface and tool availability.
 
-## Older (unmaintained) research projects
+## Other research projects
+
+The repositories listed below are end-of-life and no longer maintained.
 
 ### BitCurator Access Webtools
 
