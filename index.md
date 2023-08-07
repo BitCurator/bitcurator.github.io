@@ -45,6 +45,10 @@ The BitCurator NLP project includes several repositories. The topic model genera
 [https://github.com/BitCurator/bitcurator-access-webtools](https://github.com/BitCurator/bitcurator-access-webtools)
 [https://github.com/BitCurator/bitcurator-nlp-entspan](https://github.com/BitCurator/bitcurator-nlp-entspan)
 
+## Research Publications
+
+Visit our [Research](https://bitcurator.github.io/research) page to see a list of publications.
+
 ## Contributors
 
 BitCurator repositories are maintained by volunteers in the community. Interested in participating? Message the group, send a pull request, or send a note to the mailing list at [https://groups.google.com/d/forum/bitcurator-users](https://groups.google.com/d/forum/bitcurator-users).
