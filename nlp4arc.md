@@ -4,14 +4,14 @@ The NLP4ARC symposia were held 2017-2018 in conjunction with the BitCurator NLP 
 
 ## nlp4arc 2017
 
-###Event Information
+### Event Information
 
 3 February 2017 9:00am – 5:00pm
 Student Union rooms 3206A and 3206B, University of North Carolina, Chapel Hill, North Carolina
 
 Suggested hashtag: #nlp4arc
 
-###About the Symposium
+### About the Symposium
 
 The symposium consisted of a number of short talks and unconference style break-out sessions on the application of natural language processing (NLP) to support use, access, and analysis of digital primary source materials.
 
@@ -21,7 +21,7 @@ There are many types of contextual information that can be vital to making sense
 
 There are many existing open-source tools that libraries, archives and museums (LAMs) can use to identify, extract and expose such contextual entities from the wide diversity of born-digital materials that LAMs already hold and continue to receive. NLP tools and methods can help to both (1) facilitate curatorial decision making and description, and (2) generate access points to be presented to end users.
 
-###Program
+### Program
 
 *9:00-9:15*
 
@@ -77,7 +77,7 @@ Reporting Back from Breakout Sessions
 
 Wrap Up and Next Step
 
-###Speaker Biographies
+### Speaker Biographies
 
 **Christopher (Cal) Lee (PI), University of North Carolina at Chapel Hill**
 
@@ -125,12 +125,12 @@ Jeremy Gibson is the Systems Integration Librarian at the State Archives of Nort
 
 ## npl4arc 2018
 
-###Event Information
+### Event Information
 
 2 February 2018 9:00am – 5:00pm
 Dey Hall, Toy Lounge, University of North Carolina, Chapel Hill, North Carolina
 
-###About the Symposium
+### About the Symposium
 
 BitCurator NLP will host “nlp4arc – Enabling New Forms of Access to Primary Sources through Natural Language Processing.” The event will focus on the application of natural language processing (NLP) to support use, access, and analysis of digital primary source materials. Click here to register.
 
@@ -140,7 +140,7 @@ University of North Carolina
 Chapel Hill, North Carolina
 Suggested hashtag: #nlp4arc
 
-###Program
+### Program
 
 *9:00-9:15*
 
@@ -206,7 +206,7 @@ Reporting Back from Breakout Sessions
 
 Wrap Up and Next Steps
 
-###Speaker Biographies
+### Speaker Biographies
 
 **Jaime Arguello, University of North Carolina at Chapel Hill**
 
