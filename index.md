@@ -1,8 +1,10 @@
 The BitCurator organization on GitHub houses the source code, documentation, and other supporting materials for the BitCurator (2011-2014), BitCurator Access (2014-2016), and the BitCurator NLP (2016-2018) projects.
 
-For the most up-to-date documentation on the BitCurator Environment, visit our [Releases page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). Community support is managed by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/). Community contributions, workflows, and other information can be found [on the Confluence site managed by Educopia](https://confluence.educopia.org/display/BC). 
+* For up-to-date documentation on deploying the BitCurator Environment, visit our [Releases page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). 
+* Community support is managed by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/). 
+* Community contributions, workflows, and other information can be found [on the Confluence site managed by Educopia](https://confluence.educopia.org/display/BC). 
 
-Additional information replicated from the bitcurator.net site:
+Additional information replicated from the *bitcurator.net* site:
 
 * [History of the BitCurator project](https://bitcurator.github.io/bitcurator-project)
 * [History of the BitCurator Access project](https://bitcurator.github.io/bitcurator-access-project)
@@ -15,9 +17,7 @@ Additional information replicated from the bitcurator.net site:
 
 The BitCurator Environment is a Ubuntu-based Linux distribution designed to assist collections professionals with media imaging, forensic analysis, and reporting tasks when working with digital collections. It can be installed into a clean Ubuntu LTS release. Some releases can also be downloaded as a pre-built virtual appliance.
 
-**Download the latest stable release:**
-
-[Releases](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) 
+**[Download the latest stable release](https://github.com/BitCurator/bitcurator-distro/wiki/Releases)**
 
 **Repository list:**
 
@@ -28,7 +28,7 @@ The BitCurator Environment is a Ubuntu-based Linux distribution designed to assi
 
 Visit the README at [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt) to learn how to deploy BitCurator in a stock Ubuntu 22.04LTS or 20.04LTS OS.
 
-## Other BitCurator research software
+## Other BitCurator Research Software
 
 The repositories listed below are end-of-life and no longer maintained.
 
