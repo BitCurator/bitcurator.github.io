@@ -87,8 +87,6 @@ Sunitha Misra is a Graduate Student at the School of Information and Library Sci
 
 ### Amanda Visconti, Graduate Research Assistant (MITH)
 
-![Amanda Visconti](https://bitcurator.github.io/images/people/visconti_amanda-150x150.jpg)
-
 Amanda Visconti is a [MITH graduate research assistant](http://mith.umd.edu/people/person/amanda-visconti/) on the BitCurator project, where she creates user-friendly technical documentation, develops and designs for the web, and researches software usability. As a Literature Ph.D. candidate, she blogs about her digital humanities work regularly at [LiteratureGeek.com](LiteratureGeek.com).
 
 ### Kyle Bickoff, Graduate Research Assistant (MITH)
@@ -145,7 +143,7 @@ Erin O’Meara is an Archivist at the Gates Archive, where she manages digital s
 
 ### Michael Olson, Stanford University
 
-![Michael Olson](https://bitcurator.github.io/images/people/olsen_michael-150x150.jpg)
+![Michael Olson](https://bitcurator.github.io/images/people/olson_michael-150x150.jpg)
 
 Michael G Olson is a manager of digital projects for Stanford University Libraries. In this capacity he works with library curators and other non-library constituents to build and deliver digital collections, with a primary focus on unique special collections materials. Michael also works as a technology analyst for analog and electronic media and is currently leading efforts to migrate Stanford’s department of special collections and archive of record sound to the archivists’ toolkit.
 
@@ -153,7 +151,7 @@ Previous accomplishments include managing the Parker Library on the Web project 
 
 ### Gabriela Redwine, University of Texas, Austin
 
-![Gabriela Redwine](https://bitcurator.github.io/images/people/redwine_gabriela-150x150.jpg)
+![Gabriela Redwine](https://bitcurator.github.io/images/people/redwine_gabby-150x150.jpg)
 
 Gabriela Redwine is Archivist and Electronic Records/Metadata Specialist at the Harry Ransom Center, where she is responsible for processing paper and born-digital collections, developing policies and procedures for the Ransom Center’s born-digital preservation program, and maintaining EAD versions of the Center’s finding aids. In 2010 she co-authored (with Matthew Kirschenbaum and Richard Ovenden) Digital Forensics and Born-Digital Content in Cultural Heritage Collections, a report published by the Council on Library and Information Resources (CLIR). She earned her MSIS and MA degrees from the University of Texas at Austin.
 

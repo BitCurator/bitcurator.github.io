@@ -61,7 +61,7 @@ Mark is the Collaboration & Interoperability Architect in Digital Library System
 
 ### Laney McGlohon, ArchiveSpace
 
-![Laney McGlohan](https://bitcurator.github.io/images/people/mcglohan_laney-150x150.jpg)
+![Laney McGlohon](https://bitcurator.github.io/images/people/mcglohon_laney-150x150.jpg)
 
 Laney is an information scientist, software developer, librarian, and self-described data wrangler with seven years of experience working with special collections and institutional archivists. Most recently, Laney served as the Discovery and Access Engineer at Stanford University Libraries. Before that she served as a Software Engineer at the Getty Research Institute and as Technology Consultant at the Museum of Ventura County. She has also worked at the University of Georgia and Raytheon Systems Corporation. Laney earned a Bachelor’s of Science in Mathematical Sciences from University of North Carolina, Chapel Hill, a Master’s of Science in Applied Mathematics from North Carolina State University and her Master’s in Library Science from University of North Carolina, Chapel Hill.
 
