@@ -540,6 +540,8 @@ OPF members are invited to attend free of charge. The price for non-members is 7
 
 Below is a guest post by [Walker Sampson](https://wsampson.wordpress.com/), the Digital Archivist at the University of Colorado Boulder. Walker describes the disk imaging workflow he presented at the first ever BitCurator User Forum held January 9th, 2015.
 
+![Media capture](https://bitcurator.github.io/images/posts/Capture.png)
+
 It was a real pleasure discussing workflows with fellow practitioners at the BitCurator Users Forum this year. Many thanks to Matt Farrell at Duke and Kari Smith at MIT for presenting with me, and to Farrell again for putting together and directing our panel.
 
 I have pictured above a synopsis of my disk imaging workflow, which relies strongly on student help. Students take floppy disks from initial photography to imaging, mount testing, documentation of the results, and rehousing.
@@ -558,11 +560,19 @@ This workflow emphasizes the capture of disk images foremost. Analysis and descr
 
 The First Annual BitCurator User Forum took place last Friday, January 9th at the Pleasants Family Assembly Room in Wilson Library on the campus of the University of North Carolina Chapel Hill. The Forum was attended by approximately forty practitioners from around the world, focused around three panel discussions. The goal of the forum was to describe best practices, discuss challenges in implementing the environment, share strategies for integrating BitCurator into institutional workflows, and to provide opportunities for collaborations on future work.
 
+![User forum members on steps](https://bitcurator.github.io/images/posts/IMG_5382.jpg)
+
 The first panel was chaired by Erika Farr, head of Digital Archives at the Manuscripts, Archives, and Rare Book Library at Emory University. She was joined by Euan Cochrane, Digital Preservation Manager at the Yale University Library and Brian Dietz, the Digital Program Librarian for Special Collections at the North Carolina State University Libraries. The session focused on options for disk image formats (particularly the Encase image format, the Advanced Forensic Format, and raw) and the criteria different institutions use to choose a format for a particular type of media. The panelists and the audience discussed the pros and cons of different formats and will begin to articulate general criteria for format selection.
+
+![Panel discussion](https://bitcurator.github.io/images/posts/B66zhjXCAAAOkT8.jpg)
 
 Matthew Farrell, Digital Records Archivist at Duke University, chaired the next panel on workflow exchanges. He was joined by Walker Sampson, Digital Archivist at the University of Colorado Boulder, and Kari Smith, Digital Archivist at the Massachusetts Institute of Technology Libraries. This panel focused on the use of BitCurator tools and output in each institutions’ archival workflows. Each panelist gave a quick overview of their workflow and then addressed specifically how they integrated BitCurator into their existing preservation systems, collection management systems and descriptive workflows, and their appraisal workflows. Look for an upcoming post from Walker Sampson next week describing his approach at UC Boulder.
 
+![Appraisal workflows discussion](https://bitcurator.github.io/images/posts/IMG_53861.jpg)
+
 Christopher (Cal) Lee, the Frances Carroll McColl Term Professor in the School of Information and Library Science at the University of North Carolina Chapel Hill and the Principle Investigator of the BitCurator Access project, chaired the final panel on future work integrating BitCurator with other tools and environments. The other panelists were Kam Woods, Research Scientist at UNC SILS and co-Principle Investigator on the BitCurator Access project; Don Mennerich, Digital Archivist at New York University; Zach Vowell, Digital Archivist at Cal Poly, and Brad Westbrook, Program Manager at ArchivesSpace. Each panelist gave a brief presentation about current development activities they were working on. Following that, the panel held a larger group discussion with the forum about the biggest integration challenges and specific opportunities at their institutions.
+
+![Challenges discussion](https://bitcurator.github.io/images/posts/4.jpg)
 
 The BitCurator User Forum provided a space for this emerging community to highlight issues and concerns, and to share strategies and best practices. We are very grateful to the [Educopia Institute](http://www.educopia.org/) for hosting the forum, and the Andrew W. Mellon Foundation for providing funding for the event.
 
