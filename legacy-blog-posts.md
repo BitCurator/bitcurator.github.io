@@ -63,7 +63,7 @@ You can download the VirtualBox VM and installation ISO directly using the follo
 
 BitCurator 2.0.6 fixes several long-standing issues related to environment stability when the environment is installed as a host operating system on single or multi-boot systems.
 
-A couple of the most commonly reported issues with previous BitCurator releases (when installed as a host OS) have been (a) failure to recognize or mount the host OS drive after reboot with read-only enforcement enabled, and (b) the unintuitive/fragile process required to permanently write-enable specific drives installed in the machine other than the boot disk  – drives that are typically used for secondary or working storage.
+A couple of the most commonly reported issues with previous BitCurator releases (when installed as a host OS) have been (a) failure to recognize or mount the host OS drive after reboot with read-only enforcement enabled, and (b) the unintuitive/fragile process required to permanently write-enable specific drives installed in the machine other than the boot disk – drives that are typically used for secondary or working storage.
 
 These issues are addressed in the 2.0.6 release as follows:
 
@@ -230,15 +230,15 @@ There are many existing open-source tools that libraries, archives and museums (
 
 The day will include a series of short talks by internationally-recognized experts, followed by a set of participant-driven unconference discussions. Speakers will include:
 
-* Christopher (Cal) Lee (PI), University of North Carolina at Chapel Hill
-* Kam Woods (Co-PI, Technical Lead), University of North Carolina at Chapel Hill
-* Mary Elings, University of California, Berkeley
-* Don Mennerich, New York University
-* Daniel Pitti, University of Virginia
-* Josh Schneider, Stanford University
-* Ryan Shaw, University of North Carolina at Chapel Hill
-* Brad Westbrook, ArchivesSpace
-* Carl Wilson, Open Preservation Foundation
+* Christopher (Cal) Lee (PI), University of North Carolina at Chapel Hill ([Additional Info](https://ils.unc.edu/callee/))
+* Kam Woods (Co-PI, Technical Lead), University of North Carolina at Chapel Hill ([Additional Info](https://kamwoods.net/))
+* Mary Elings, University of California, Berkeley ([Additional Info](http://dlab.berkeley.edu/people/mary-w-elings))
+* Don Mennerich, New York University ([Additional Info](http://dlib.nyu.edu/dlts/staff/))
+* Daniel Pitti, University of Virginia ([Additional Info](http://archive1.village.virginia.edu/dvp4c/))
+* Josh Schneider, Stanford University ([Additional Info](https://digitalhumanities.stanford.edu/users/josh-schneider))
+* Ryan Shaw, University of North Carolina at Chapel Hill ([Additional Info](https://aeshin.org/))
+* Brad Westbrook, ArchivesSpace ([Additional Info](http://www.archivesspace.org/team))
+* Carl Wilson, Open Preservation Foundation ([Additional Info](http://openpreservation.org/blog/author/carl/))
 * Hugh Cayless, Duke University Libraries
 * Jeremy Gibson, North Carolina Department of Natural and Cultural Resources
 
@@ -415,31 +415,30 @@ Submission will be reviewed to ensure relevance to the themes of the event. If y
 
 We hope to see you there.
 
-Organizers
-Christine Di Bella
-ArchivesSpace
+Organizers  
+Christine Di Bella  
+ArchivesSpace  
 
-Max Eckard
-University of Michigan
+Max Eckard  
+University of Michigan  
 
-Christopher (Cal) Lee
-University of North Carolina
+Christopher (Cal) Lee  
+University of North Carolina  
 
-Sam Meister
-Educopia Institute
+Sam Meister  
+Educopia Institute  
 
-Courtney Mumma
-Internet Archive
+Courtney Mumma  
+Internet Archive  
 
-Michael Shallcross
-University of Michigan
+Michael Shallcross  
+University of Michigan  
 
-Bradley Westbrook
-ArchivesSpace
+Bradley Westbrook  
+ArchivesSpace  
 
 ### Save the Dates – Announcing CurateGear and BitCurator Users Forum
 *(originally published September 14, 2015)*
-
 
 Curate Gear 2016 – Thursday, January 14th, 2016
 2nd Annual BitCurator User Forum – Friday, January 15th, 2016
@@ -474,6 +473,8 @@ In this webinar given to members of the Association of Southern Research Librari
 Cal and Kam just returned from teaching a one-day workshop at the Austrian Institute of Technology (AIT) in Vienna, Austria! The workshop was sponsored by the [Open Preservation Foundation](http://openpreservation.org/), which seeks to promote best practices for the long-term preservation of digital cultural heritage materials.
 
 During the workshop, participants were able to gain hands-on experience using BitCurator tools, including our latest developments with [BitCurator Access](https://github.com/bitcurator/bitcurator-access/wiki). Participants were encouraged to bring disk images from their own collections, in an effort to present and discuss real-world use cases faced by institutions. The workshop focused on using the BitCurator environment to assist with various aspects of digital curation, including pre-imaging data triage; forensic disk imaging; file system analysis and reporting; identification of private and individually identifying information; and export of technical and other metadata. Workshop participants came from five different European countries: Austria, Denmark, Germany, Netherlands, and the United Kingdom.
+
+![BitCurator in Vienna](https://bitcurator.github.io/images/posts/11201124_10102141245433873_8239580283341734840_o-1024x352.jpg)  
 
 ### BitCurator Access Software Developer Needed!
 *(originally published May 21, 2015)*
@@ -580,7 +581,8 @@ OPF members are invited to attend free of charge. The price for non-members is 7
 
 Below is a guest post by [Walker Sampson](https://wsampson.wordpress.com/), the Digital Archivist at the University of Colorado Boulder. Walker describes the disk imaging workflow he presented at the first ever BitCurator User Forum held January 9th, 2015.
 
-![Media capture](https://bitcurator.github.io/images/posts/Capture-1024x767.png)
+![Media capture](https://bitcurator.github.io/images/posts/Capture-1024x767.png)   
+*Media capture*
 
 It was a real pleasure discussing workflows with fellow practitioners at the BitCurator Users Forum this year. Many thanks to Matt Farrell at Duke and Kari Smith at MIT for presenting with me, and to Farrell again for putting together and directing our panel.
 
@@ -803,7 +805,8 @@ The BCC is administered by the Educopia Institute, a non-profit that advances cu
 
 Last week, I wrote about how to forensically image the internal hard drive on a Mac laptop without needing to physically remove the drive. If your workspace doesn’t have the necessary tools to follow that tutorial (a firewire cable, a firewire port on the Mac you’re imaging, and a firewire port on a PC partitioned with BitCurator), we offer an alternative in this post.
 
-![The Mac laptop we wanted to forensically image.](https://bitcurator.github.io/images/posts/original-mac-300x158.jpg)
+![The Mac laptop we wanted to forensically image.](https://bitcurator.github.io/images/posts/original-mac-300x158.jpg)  
+*The Mac laptop we wanted to forensically image.*
 
 **Other Options for Imaging Mac Laptops**
 
@@ -821,7 +824,8 @@ Opening up the laptop, removing the drive, and later trying to put everything ba
 
 First, we need to protect the laptop from having the connected machine write back to it during the imaging process. This wasn’t a major concern in our example as Larsen’s laptop has already been explored by researchers at MITH—but it’s good practice nonetheless, especially if you use a command-line imaging method, where a simple is-typing could accidentally erase your device. Our [WiebeTech Forensic ComboDock](http://www.cru-inc.com/products/wiebetech/wiebetech_forensic_combodock_v5/) works well for most write-blocking purposes, but it doesn’t have the firewire input and output needed to work with a Mac in target disk mode. [Tableau T9 Firewire Forensic Bridge](http://www.guidancesoftware.com/products/Pages/tableau/products/forensic-bridges/t9.aspx) is a hardware option that does accept both firewire input and output, but we didn’t have one on hand. We thus used software write-blocking instead, installing Aaron Burghardt’s [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) to protect the laptop.
 
-![Imaging time! Leaving the computers alone during imaging.](https://bitcurator.github.io/images/posts/macs-connected-300x154.jpg)
+![Imaging time! Leaving the computers alone during imaging.](https://bitcurator.github.io/images/posts/macs-connected-300x154.jpg)  
+*Imaging time! Leaving the computers alone during imaging.*
 
 **A Forensic Disk Image**
 
@@ -831,11 +835,13 @@ Begin by putting the Mac laptop you want to image into target disk mode:
 * Hold down the t key and turn the laptop to be imaged on.
 * Continue to hold down the t key until the target disk mode image appears on the screen (see photo below).
 
-![Mac in target disk mode.](https://bitcurator.github.io/images/posts/opened-mac-267x300.jpg)
+![Mac in target disk mode.](https://bitcurator.github.io/images/posts/opened-mac-267x300.jpg)  
+*Mac in target disk mode.*
 
 You can now connect your firewire cable to both the laptop to be imaged and the Mac (or Linux computer) doing the imaging.
 
-![Mac in target mode connected to imaging workstation.](https://bitcurator.github.io/images/posts/mac-target-mode-300x225.jpg)
+![Mac in target mode connected to imaging workstation.](https://bitcurator.github.io/images/posts/mac-target-mode-300x225.jpg)  
+*Mac in target mode connected to imaging workstation.*
 
 To create a forensic disk image, there are a variety of free and commercial programs that provide graphical interfaces for Mac and Linux, including [MacOSXForensics Imager](http://www.appleexaminer.com/Utils/Downloads.html) (Mac) and [Guymager](http://guymager.sourceforge.net/) (Linux; note that Guymager is the imaging software BitCurator incorporates). Commercial options such as [FTK Imager](http://www.forensicswiki.org/wiki/FTK_Imager) also exist. Almost any program that creates the image in an Encase (E01) or AFF forensic disk image format works, as these formats take a raw disk image and wrap metadata about the imaging around it. We haven’t formally evaluated the effectiveness of any programs outside the BitCurator suite, though, so you’ll want to check potential Mac forensic imaging software out yourself and explore the images they create within the BitCurator environment to make certain they captured your device correctly.
 
@@ -860,7 +866,8 @@ Amanda Visconti is a MITH graduate research assistant on the BitCurator project,
 
 Let’s say a digital beauty like this makes its way into your collection:
 
-![The lid of the Larsen laptop is covered in flower and lace doily decals.](https://bitcurator.github.io/images/posts/original-mac-300x158.jpg)
+![The lid of the Larsen laptop is covered in flower and lace doily decals.](https://bitcurator.github.io/images/posts/original-mac-300x158.jpg)  
+*The lid of the Larsen laptop is covered in flower and lace doily decals.*
 
 BitCurator can aid us in such investigations by freeing Larsen’s laptop data from its storage media (which will fail eventually), capturing important contextual details about Larsen’s original work environment, and helping to ensure the authenticity and integrity of files during forensic processing (see [this page on how BitCurator fits into existing archival workflows](https://confluence.educopia.org/display/BC/Workflow+Overview), or [this page on how the individual tools making up the BitCurator suite address particular archival concerns](https://confluence.educopia.org/display/BC/Tasks+and+Tools+Overview), for more information on what BitCurator can do).
 
@@ -872,7 +879,8 @@ You can get to work quickly with BitCurator if you’ve got a digital device rea
 
 With a Mac laptop, however, the device isn’t as easy to get at. If it’s a working, explorable laptop, as with Larsen’s, there’s a risk to that working status associated with temporarily physically removing the drive for imaging via a SATA cable—so we’d like to avoid opening the laptop up if possible, and find some other way of imaging the drive.
 
-![Mac in target disk mode.](https://bitcurator.github.io/images/posts/opened-mac-267x300.jpg)
+![Mac in target disk mode.](https://bitcurator.github.io/images/posts/opened-mac-267x300.jpg)  
+*Mac in target disk mode.*
 
 Imaging the laptop hard drive by connecting one of its exterior ports (e.g. USB) seems like the way to go, but Macs are finicky about showing up as drives on other computers.
 
@@ -895,19 +903,23 @@ This use case is Mac plus laptop-specific: that is, desktop Macs don’t use the
 
 **Our Choice: Imaging with BitCurator on a Partition**
 
-![Imaging the Larsen Mac laptop using a firewire and PC partitioned with the BitCurator Ubuntu.](https://bitcurator.github.io/images/posts/mac-target-mode-300x225.jpg)
+![Imaging the Larsen Mac laptop using a firewire and PC partitioned with the BitCurator Ubuntu.](https://bitcurator.github.io/images/posts/mac-target-mode-300x225.jpg)  
+*Imaging the Larsen Mac laptop using a firewire and PC partitioned with the BitCurator Ubuntu.*
 
 Why? We had the necessary components to let BitCurator recognize the Mac laptop as a drive: a firewire cable, a firewire port on the Larsen Mac, and a firewire port on a PC partitioned with BitCurator.
 
-![Our hardware write-blocker (WiebeTech Forensic ComboDock), used to protect devices from being written to while we're imaging them.](https://bitcurator.github.io/images/posts/IMG_0485-1024x913-300x267.jpg)
+![Our hardware write-blocker (WiebeTech Forensic ComboDock), used to protect devices from being written to while we're imaging them.](https://bitcurator.github.io/images/posts/IMG_0485-1024x913-300x267.jpg)  
+*Our hardware write-blocker (WiebeTech Forensic ComboDock), used to protect devices from being written to while we're imaging them.*
 
 We weren’t able to use our usual hardware write-blocker, as it only takes firewire input but doesn’t output it; BitCurator incorporates a feature that can mount devices safely, however, so we were still able to protect the device from being written back to. [Follow these instructions](https://confluence.educopia.org/display/BC/Safely+Mount+Devices) to safely mount devices in BitCurator.
 
-![The software write-blocker safely mounts the laptop as a drive.](https://bitcurator.github.io/images/posts/IMG_0491-1024x588-300x172.jpg)
+![The software write-blocker safely mounts the laptop as a drive.](https://bitcurator.github.io/images/posts/IMG_0491-1024x588-300x172.jpg)  
+*The software write-blocker safely mounts the laptop as a drive.*
 
 Next, we used BitCurator’s bundled Guymager software to forensically image the laptop ([see these instructions](https://confluence.educopia.org/display/BC/Creating+a+Disk+Image+Using+Guymager) or [this video](https://www.youtube.com/watch?v=LurmJ5axaYc) for steps to use Guymager yourself.) This produced a forensic image of the laptop, which we’ll be further exploring with BitCurator in a future post.
 
-![Using BitCurator's Guymager instance to forensically image the laptop.](https://bitcurator.github.io/images/posts/IMG_0493-1024x529-300x155.jpg)
+![Using BitCurator's Guymager instance to forensically image the laptop.](https://bitcurator.github.io/images/posts/IMG_0493-1024x529-300x155.jpg)  
+*Using BitCurator's Guymager instance to forensically image the laptop.*
 
 In another future post, I’ll discuss an alternative approach for those of you who couldn’t follow these instructions (e.g. no firewire port, no BitCurator running on a partition).
 
@@ -981,11 +993,13 @@ There are no prerequisites for this webinar; however, it is designed for users a
 
 We’ve been busy the past few months.  Take the blog silence for the quiet of busy beavers rather than the absence of activity!
 
-![Photo of BitCurator Project Sticker](https://bitcurator.github.io/images/posts/20140221_162751.jpg) *BitCurator Project Sticker*
+![Photo of BitCurator Project Sticker](https://bitcurator.github.io/images/posts/20140221_162751.jpg)  
+*BitCurator Project Sticker*
 
 As noted in the workflow diagrams, one of the tools that we are assessing both in terms of functionality and how it might fit into our workflows is BitCurator.  The BitCurator Team has lot of information on their [project](https://bitcurator.net) and [release portal](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) pages that you should read to keep current on this Mellon funded project.
 
-![Photo of the BitCurator in a Box. Includes two write-blockers, cables and cords, and BitCurator program on a USB drive](https://bitcurator.github.io/images/posts/20140211_140501.jpg) *Photo of the BitCurator in a Box. Includes two write-blockers, cables and cords, and BitCurator program on a USB drive*
+![Photo of the BitCurator in a Box. Includes two write-blockers, cables and cords, and BitCurator program on a USB drive](https://bitcurator.github.io/images/posts/20140211_140501.jpg)  
+*Photo of the BitCurator in a Box. Includes two write-blockers, cables and cords, and BitCurator program on a USB drive*
 
 The BitCurator Project is an open-source digital forensics environment in which collecting institutions can create and analyze forensic disk images of digital content, whether from a file server or from media.  [Read this page on the BitCurator website](http://www.bitcurator.net/aboutbc/) for more specifics on the projects and the tools incorporated into the environment.
 
@@ -1317,13 +1331,15 @@ Still available new from online retailers, look for a drive that can read both 1
 
 These units are available both new and used. We recommend the 250MB model as it is backwards compatible with the 100MB Zip disks. New units retail for around $200 and used units for around $50.
 
-![USB 250 MB Zip Drive and 3.5" Floppy Disk Drive](https://bitcurator.github.io/images/posts/zip-and-floppy-300x225.jpg) *USB 250 MB Zip Drive and 3.5" Floppy Disk Drive*
+![USB 250 MB Zip Drive and 3.5" Floppy Disk Drive](https://bitcurator.github.io/images/posts/zip-and-floppy-300x225.jpg)  
+*USB 250 MB Zip Drive and 3.5" Floppy Disk Drive*
 
 **Device Side Data’s FC5025**
 
 The FC5025 is a controller card for 5.25” floppy disk drives that can be used as an internal or external—as seen here—interface. Device Side Data charges $55.25 per controller.
 
-![FC5025 5.25" Floppy Drive Controller](https://bitcurator.github.io/images/posts/fc5025-768x1024-225x300.jpg) *FC5025 5.25″ Floppy Drive Controller*
+![FC5025 5.25" Floppy Drive Controller](https://bitcurator.github.io/images/posts/fc5025-768x1024-225x300.jpg)  
+*FC5025 5.25″ Floppy Drive Controller*
 
 **5.25” Floppy Disk Drive**
 
@@ -1331,17 +1347,20 @@ These units are no longer available new, but can still be purchased off of eBay 
 
 Because 5.25″ floppy drives are no longer manufactured, we recommend that you purchase a number of back up drives based on your need. We also recommend a disk drive cleaning kit.
 
-![Backup your capacity to backup](https://bitcurator.github.io/images/posts/cleaning-kit-225x300.jpg) *Backup your capacity to backup*
+![Backup your capacity to backup](https://bitcurator.github.io/images/posts/cleaning-kit-225x300.jpg)  
+*Backup your capacity to backup*
 
 **Wiebetech UltraDock Hardware Write Protector**
 
 This unit serves as both an interface with IDE and Serial ATA  type hard disk drives and as a write protector. Because it is common for the OS to overwrite metadata on a hard drive, write protection ensures that no interactions of the archivist or researcher affects the integrity of the original media. Wiebetech charges $250 for the UltraDock Hardware Write Protector.
 
-![WiebeTech Forensic ComboDock Writer Blocker](https://bitcurator.github.io/images/posts/weibetech-connected-225x300.jpg) *WiebeTech Forensic ComboDock Writer Blocker*
+![WiebeTech Forensic ComboDock Writer Blocker](https://bitcurator.github.io/images/posts/weibetech-connected-225x300.jpg)  
+*WiebeTech Forensic ComboDock Writer Blocker*
 
 **How Things Come Together**
 
-![Digital Curation Workstation](https://bitcurator.github.io/images/posts/DCW-Annotated-300x196.jpg) *Digital Curation Workstation*
+![Digital Curation Workstation](https://bitcurator.github.io/images/posts/DCW-Annotated-300x196.jpg)  
+*Digital Curation Workstation*
 
 **BitCurator Digital Forensics Tools**
 
@@ -1365,7 +1384,8 @@ BitCurator currently includes the following tools:
 
 **Case Study: Recovering the Shelley-Godwin Archive**
 
-![The half-life of bits: The evolution of Niel Fraistat's transcription of Shelley's Prometheus Unbound manuscripts.](https://bitcurator.github.io/images/posts/living-bits-shelley-transcripts-300x73.jpg) *The half-life of bits: The evolution of Niel Fraistat’s transcription of Shelley’s Prometheus Unbound manuscripts.*
+![The half-life of bits: The evolution of Niel Fraistat's transcription of Shelley's Prometheus Unbound manuscripts.](https://bitcurator.github.io/images/posts/living-bits-shelley-transcripts-300x73.jpg)  
+*The half-life of bits: The evolution of Niel Fraistat’s transcription of Shelley’s Prometheus Unbound manuscripts.*
 
 In 1989, Neil Fraistat worked with the Bodleian Library in Oxford to produce a transcript of Percy Shelley’s Prometheus Unbound manuscripts. These handwritten manuscripts included notations, line-throughs, revisions, line counts and other edits that made them challenging to read. Fraistat transcribed each page using WordPerfect 4.2 and then created a photo ready print of each transcribed page. The subsequent publication included a facsimile of the original page next to Fraistat’s transcribed version, as seen in the image above.  Completed on an IBM PC of the era, Fraistat’s work was saved on 5.25” floppy disks.
 
@@ -1802,52 +1822,65 @@ breaks, lunch, and free parking.
 **Program**
 
 *8:00-8:15*  
-* Welcome and introductions - Helen Tibbo
+* Welcome and introductions - Helen Tibbo  
+
 *8:15-8:30*  
-* Overview of the Day's Topics - Cal Lee
+* Overview of the Day's Topics - Cal Lee  
+
 *8:30-9:00*  
-Curation Needs and Behaviors  
+**Curation Needs and Behaviors**  
 * Carolyn Hank – The Blog Archiving Landscape: Services and Approaches for Personal Blog Preservation
 * Matt Kirschenbaum – More than Words: Literary Authorship and Word Processing
 * Doug Reside – On Becoming a Digital Curator for the Performing Arts  
+
 *9:00-9:20*  
 * Break  
+
 *9:20-10:00*  
-Repository Management Environments  
+**Repository Management Environments**  
 * Jon Crabtree – SAFE Archive
 * Mark Evans and Mike Thuman – Safety Deposit Box
 * Chien-Yi Hou and Richard Marciano – Policy-Driven Data Management
 * Peter Van Garderen – Integration of BitCurator knowledge and tools into Archivematica  
+
 *10:00-11:00*  
-Demo and Discussion Session – Repository Management Environments
+**Demo and Discussion Session – Repository Management Environments**  
 * Presenters from the previous session will provide demonstrations and discuss with CurateGear participants.  
+
 *11:00-11:20*  
 * Break  
+
 *11:20-12:00*  
-Metadata and Documentation  
+**Metadata and Documentation**  
 * Barbara Guttman and Doug White – The NSRL and Its Potential Role in Digital Curation
 * Mark Matienzo – Accessioning-based Metadata Extraction and Iterative Processing: Notes From the Field
 * David Pearson – NLA Digital Preservation Knowledgebases for Formats, Software and associated levels of support
 * Seamus Ross – DRAMBORA and the Data Audit Framework  
+
 *12:00-1:00*
 * Lunch  
+
 *1:00-2:00*  
-Demo and Discussion Session – Metadata and Documentation  
+**Demo and Discussion Session – Metadata and Documentation**  
 * Presenters from the previous session will provide demonstrations and discuss with CurateGear participants.  
+
 *2:00-3:00*  
-Data Transformation, Processing and Access  
+**Data Transformation, Processing and Access**  
 * Greg Jansen – Curator’s Workbench
 * Trevor Owens – Viewshare.org: A free open platform for creating interfaces to cultural heritage collections
 * Seth Shaw – Accessioning Evolution @ Duke
 * Bill Underwood – Tools for File Format Identification, Validation and Characterization
 * Kam Woods – BitCurator  
+
 *3:00-3:20*  
 * Break  
+
 *3:20-4:20*  
-Demo and Discussion Session – Data Transformation, Processing and Access
+**Demo and Discussion Session – Data Transformation, Processing and Access**
 * Presenters from the previous session will provide demonstrations and discuss with CurateGear participants.  
+
 *4:20-5:00*  
-Observations and Implications  
+**Observations and Implications**  
 * Nancy McGovern, Seamus Ross, Helen Tibbo, Bram van der Werf
 
 ### Events, how to follow BitCurator, and our upcoming press release
