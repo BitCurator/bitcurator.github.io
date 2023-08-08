@@ -2,17 +2,14 @@ The BitCurator organization on GitHub houses the source code, documentation, and
 
 For the most up-to-date documentation on the BitCurator Environment, visit our [Releases page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). Community support is managed by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/). Community contributions, workflows, and other information can be found [on the Confluence site managed by Educopia](https://confluence.educopia.org/display/BC). 
 
-[History of the BitCurator project](https://bitcurator.github.io/bitcurator-project)
+Additional information replicated from the bitcurator.net site:
 
-[History of the BitCurator Access project](https://bitcurator.github.io/bitcurator-access-project)
-
-[History of the BitCurator NLP project](https://bitcurator.github.io/bitcurator-nlp-project)
-
-[NLP4ARC events](https://bitcurator.github.io/nlp4arc)
-
-[Legacy bitcurator.net blog posts](https://bitcurator.github.io/legacy-blog-posts)
-
-[Research and publications](https://bitcurator.github.io/research)
+* [History of the BitCurator project](https://bitcurator.github.io/bitcurator-project)
+* [History of the BitCurator Access project](https://bitcurator.github.io/bitcurator-access-project)
+* [History of the BitCurator NLP project](https://bitcurator.github.io/bitcurator-nlp-project)
+* [NLP4ARC events](https://bitcurator.github.io/nlp4arc)
+* [Legacy bitcurator.net blog posts](https://bitcurator.github.io/legacy-blog-posts)
+* [Research and publications](https://bitcurator.github.io/research)
 
 ## BitCurator Environment
 
