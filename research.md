@@ -125,7 +125,7 @@ Lee, Christopher A. [“Forensicate Me: Archival Education with Forensic Sensibi
 
 ## Publications
 
-Lee, Christopher A., Porter Olsen, Alexandra Chassanoff, Kam Woods, Matthew Kirschenbaum, and Sunitha Misra. [“From Code to Community: Building and Sustaining BitCurator through Community Engagement.”](https://kamwoods.net/publications/code-to-community.pdf) White Paper. September 30, 2014.
+Lee, Christopher A., Porter Olsen, Alexandra Chassanoff, Kam Woods, Matthew Kirschenbaum, and Sunitha Misra. [“From Code to Community: Building and Sustaining BitCurator through Community Engagement.”](https://bitcurator.github.io/publications/code-to-community.pdf) White Paper. September 30, 2014.
 
 Misra, Sunitha, Christopher A. Lee, and Kam Woods. [“A Web Service for File-Level Access to Disk Images.”](https://journal.code4lib.org/articles/9773) Code4Lib Journal 25 (2014).
 
@@ -133,7 +133,7 @@ Lee, Christopher A. [“Archival Application of Digital Forensics Methods for Au
 
 Meister, Sam and Alexandra Chassanoff. [“Integrating Digital Forensics Techniques into Curatorial Tasks: A Case Study.”](http://www.ijdc.net/index.php/ijdc/article/view/325) International Journal of Digital Curation 9, no.2 (2014).
 
-Lee, Christopher A., Kam Woods, Matthew Kirschenbaum, and Alexandra Chassanoff. [“From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions”](https://kamwoods.net/publications/bitstreams-to-heritage.pdf). White Paper. September 30, 2013.
+Lee, Christopher A., Kam Woods, Matthew Kirschenbaum, and Alexandra Chassanoff. [“From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions”](https://bitcurator.github.io/publications/bitstreams-to-heritage.pdf). White Paper. September 30, 2013.
 
 Woods, Kam, Christopher Lee, and Sunitha Misra. [“Automated Analysis and Visualization of Disk Images and File Systems for Preservation.”](http://ils.unc.edu/callee/p239-woods.pdf) In Proceedings of Archiving 2013 (Springfield, VA: Society for Imaging Science and Technology, 2013), 239-244.
 
