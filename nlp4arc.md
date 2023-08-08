@@ -31,10 +31,10 @@ Welcome and introduction - Cal Lee
 
 Challenges and Opportunities in Applying NLP to Digital Collections
 
-* Daniel Pitti, University of Virginia – Observations on the Challenge of Identity
-* Don Mennerich, New York University, NLP in Archival Processing
-* Mary Elings, University of California, Berkeley – Using NLP to Support Dynamic Arrangement, Description, and Discovery of Born Digital Collections: The ArchExtract Experiment
-* Ryan Shaw, University of North Carolina at Chapel Hill – Discourse Processing of Oral History Transcripts
+* Daniel Pitti, University of Virginia – [Observations on the Challenge of Identity](https://bitcurator.github.io/presentations/pitti.pdf)
+* Don Mennerich, New York University, [NLP in Archival Processing](https://bitcurator.github.io/presentations/mennerich-1.pdf)
+* Mary Elings, University of California, Berkeley – [Using NLP to Support Dynamic Arrangement, Description, and Discovery of Born Digital Collections: The ArchExtract Experiment](https://bitcurator.github.io/presentations/elings.pdf)
+* Ryan Shaw, University of North Carolina at Chapel Hill – [Discourse Processing of Oral History Transcripts](https://bitcurator.github.io/shaw.pdf)
 
 *10:45-11:00*
 
@@ -44,10 +44,10 @@ Break
 
 From Projects to Programs
 
-* Josh Schneider, Stanford University Libraries – ePADD: Opening the World of Email Research through NLP
-* Jeremy Gibson and Nitin Arora, North Carolina Department of Natural and Cultural Resources – Processing the Unprocessable, Accessing the Inaccessible: T.O.M.E.S, NLP, and Government Email
+* Josh Schneider, Stanford University Libraries – [ePADD: Opening the World of Email Research through NLP](https://bitcurator.github.io/presentations/schneider.pdf)
+* Jeremy Gibson and Nitin Arora, North Carolina Department of Natural and Cultural Resources – [Processing the Unprocessable, Accessing the Inaccessible: T.O.M.E.S, NLP, and Government Email](https://bitcurator.github.io/presentations/Gibson.pdf)
 * Hugh Cayless, Duke University Libraries – Getting the Books to Talk to each Other: Projects at DC3
-* Carl Wilson, Open Preservation Foundation – Not Just Building Tools: Strategies for Sustaining Software and Associated Communities
+* Carl Wilson, Open Preservation Foundation – [Not Just Building Tools: Strategies for Sustaining Software and Associated Communities](https://bitcurator.github.io/presentations/wilson.pdf)
 
 *12:30-1:30*
 
@@ -55,7 +55,7 @@ Lunch
 
 *1:30-2:00*
 
-Kam Woods, University of North Carolina at Chapel Hill – BitCurator NLP Development and Plans
+Kam Woods, University of North Carolina at Chapel Hill – [BitCurator NLP Development and Plans](https://bitcurator.github.io/presentations/BCNLP-nlp4arc-v3.pdf)
 
 *2:00-2:30*
 
