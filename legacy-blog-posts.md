@@ -138,41 +138,52 @@ Suggested hashtag: #nlp4arc
 
 9:00-9:15
 * Welcome and introduction – Cal Lee
+
 9:15-10:30
-Foundations and Strategies
-* Michael Piotrowski, University of Lausanne – Historical Texts, NLP, and Formal Models
-* Daniel Pitti, University of Virginia – Name Entities, Named Entities, Facts in Contexts
-* Carl Wilson, Open Preservation Foundation – Not Just Building Tools: Strategies for Sustaining Software and Associated Communities
-* Mark Matienzo, Stanford University – Practical and Ethical Considerations of NLP Applied to Humanitarian Digital Libraries
+* Foundations and Strategies
+    * Michael Piotrowski, University of Lausanne – Historical Texts, NLP, and Formal Models
+    * Daniel Pitti, University of Virginia – Name Entities, Named Entities, Facts in Contexts
+    * Carl Wilson, Open Preservation Foundation – Not Just Building Tools: Strategies for Sustaining Software and Associated Communities
+    * Mark Matienzo, Stanford University – Practical and Ethical Considerations of NLP Applied to Humanitarian Digital Libraries
+
 10:30-10:45
 * Break
+
 10:45-12:00
-Implementation and Projects
-* Mary Elings, University of California, Berkeley – Using NLP to Support Dynamic Arrangement, Description, and Discovery of Born Digital Collections
-* Jeremy Gibson and Nitin Arora, North Carolina Department of Natural and Cultural Resources – “Honey, I Tagged the Email! Now What?”: NLP and the TOMES Project
-* Ryan Shaw, University of North Carolina at Chapel Hill – Gathering Specimens to Augment Authority Files
-* Stéfan Sinclair, McGill University – Spyral Notebooks: Some Reasons Why the World Needs Yet Another Jupyter
+* Implementation and Projects
+    * Mary Elings, University of California, Berkeley – Using NLP to Support Dynamic Arrangement, Description, and Discovery of Born Digital Collections
+    * Jeremy Gibson and Nitin Arora, North Carolina Department of Natural and Cultural Resources – “Honey, I Tagged the Email! Now What?”: NLP and the TOMES Project
+    * Ryan Shaw, University of North Carolina at Chapel Hill – Gathering Specimens to Augment Authority Files
+    * Stéfan Sinclair, McGill University – Spyral Notebooks: Some Reasons Why the World Needs Yet Another Jupyter
+
 12:00-12:30
-Panel on NLP Lessons Learned
-* Jaime Arguello, University of North Carolina at Chapel Hill
-* Stephanie Haas, University of North Carolina at Chapel Hill
+* Panel on NLP Lessons Learned
+    * Jaime Arguello, University of North Carolina at Chapel Hill
+    * Stephanie Haas, University of North Carolina at Chapel Hill
+
 12:30-1:30
 * Lunch 
+
 1:30-2:15
-Enabling Technologies
-* Laney McGlohon, ArchiveSpace – Finding the Data: The Use of a Data
-* Dictionary in Retrieving Descriptive Metadata from ArchivesSpace
-* Kam Woods and Cal Lee, University of North Carolina at Chapel Hill – BitCurator NLP Development and Plans
+* Enabling Technologies
+    * Laney McGlohon, ArchiveSpace – Finding the Data: The Use of a Data
+    * Dictionary in Retrieving Descriptive Metadata from ArchivesSpace
+    * Kam Woods and Cal Lee, University of North Carolina at Chapel Hill – BitCurator NLP Development and Plans
+
 2:15-2:45
-Generation of Breakout Topics
+* Generation of Breakout Topics
+
 2:45-3:00
-Break
+* Break
+
 3:00-3:45
-Breakout Sessions
+* Breakout Sessions
+
 3:45-4:15
-Reporting Back from Breakout Sessions
+* Reporting Back from Breakout Sessions
+
 4:15-5:00
-Wrap Up and Next Steps
+* Wrap Up and Next Steps
 
 **Registration**
 General Registration – $30
@@ -302,32 +313,29 @@ Date: 15 January 2016
 Location: Pleasants Family Assembly Room, Wilson Library, University of North Carolina, Chapel Hill, North Carolina
 
 Registration
-General Registration – $30
-Student Registration – $15
-BitCurator Consortium Member Registration – Free
-Register [here](https://bitcuratorconsortium.org/events/buf2016/registration).
+* General Registration – $30
+* Student Registration – $15
+* BitCurator Consortium Member Registration – Free
+* Register [here](https://bitcuratorconsortium.org/events/buf2016/registration).
 
 Program
-8:00 – 8:30am Registration and Coffee
-8:30 – 9:00am Welcome and Introductions
-9:00 – 10:15am Panel: Beyond Floppy Disks
-Cultural heritage institutions are collecting a larger variety of media than ever before including external hard drives, computers, and files from hosted cloud services. While there are established workflows and best practices for smaller media objects, many institutions are just now beginning to tackle these other forms of media.
-
-This panel will be a forum to discuss how some institutions are ingesting files from various media types, including the utilization of new tools and the development of new policies and workflows.
-10:15 – 10:45am Break
-10:45 – 12:00pm Lightning Talks: Not Your Average BitCurator: How Repositories are Using BitCurator Tools in Different Ways
-As institutions become exposed to alternative digital forensic tools and their individual strengths and limitations, they are exploring the benefits of expanding their digital curation toolset beyond reliance on any single product. Moreover, the modular architecture of tools like BitCurator has fostered a growing community of contributors who have developed and shared scripts and modifications to the open source code base.
-
-In this lightning talk session, speakers will share how they are using BitCurator tools as part of their digital curation workflow and how they have expanded BitCurator tools to meet the needs of their institution. The session will also allow time for forum participants to ask questions and share their integration challenges and outcomes.
-12:00 – 1:30pm Lunch
-1:30 – 2:45pm Breakouts: Where Should Access Happen?
-As processes for acquiring, analyzing, and describing electronic records stabilize, institutions invariably consider access to such materials. Where and how will researchers interact with digital archives? What tools should be available to them? What is the Web’s role in access?
-
-In this breakout session, forum participants will divide into groups to discuss the decision points involved in providing access to born-digital archival materials. The session will begin with a quick brainstorm topics before breaking out. Discussion facilitators will have several topics in mind, but participants are encouraged to have their own discussion topics and provocative statements.
-2:45 – 3:00 Break
-3:00 – 4:00pm Panel: Integration with other systems
-Acquisitions and processing workflows often end with a set of output files from various digital curation software tools, including both content and metadata. How does an electronic records program ensure that the output files can integrate with new or existing platforms for long term preservation? In this session, panelists will discuss their experience with different preservation and description systems, including both open source and licensed systems, and how they have approached integrating the output of their workflows into those systems.
-4:00 – 4:30pm Wrap up and Future discussion
+* 8:00 – 8:30am Registration and Coffee
+* 8:30 – 9:00am Welcome and Introductions
+* 9:00 – 10:15am Panel: Beyond Floppy Disks
+    * Cultural heritage institutions are collecting a larger variety of media than ever before including external hard drives, computers, and files from hosted cloud services. While there are established workflows and best practices for smaller media objects, many institutions are just now beginning to tackle these other forms of media.
+    * This panel will be a forum to discuss how some institutions are ingesting files from various media types, including the utilization of new tools and the development of new policies and workflows.
+* 10:15 – 10:45am Break
+* 10:45 – 12:00pm Lightning Talks: Not Your Average BitCurator: How Repositories are Using BitCurator Tools in Different Ways
+    * As institutions become exposed to alternative digital forensic tools and their individual strengths and limitations, they are exploring the benefits of expanding their digital curation toolset beyond reliance on any single product. Moreover, the modular architecture of tools like BitCurator has fostered a growing community of contributors who have developed and shared scripts and modifications to the open source code base.
+    * In this lightning talk session, speakers will share how they are using BitCurator tools as part of their digital curation workflow and how they have expanded BitCurator tools to meet the needs of their institution. The session will also allow time for forum participants to ask questions and share their integration challenges and outcomes.
+* 12:00 – 1:30pm Lunch
+* 1:30 – 2:45pm Breakouts: Where Should Access Happen?
+    * As processes for acquiring, analyzing, and describing electronic records stabilize, institutions invariably consider access to such materials. Where and how will researchers interact with digital archives? What tools should be available to them? What is the Web’s role in access?
+    * In this breakout session, forum participants will divide into groups to discuss the decision points involved in providing access to born-digital archival materials. The session will begin with a quick brainstorm topics before breaking out. Discussion facilitators will have several topics in mind, but participants are encouraged to have their own discussion topics and provocative statements.
+* 2:45 – 3:00 Break
+* 3:00 – 4:00pm Panel: Integration with other systems
+    * Acquisitions and processing workflows often end with a set of output files from various digital curation software tools, including both content and metadata. How does an electronic records program ensure that the output files can integrate with new or existing platforms for long term preservation? In this session, panelists will discuss their experience with different preservation and description systems, including both open source and licensed systems, and how they have approached integrating the output of their workflows into those systems.
+* 4:00 – 4:30pm Wrap up and Future discussion
 
 Accommodations
 Please see the list of nearby hotels below.
@@ -476,15 +484,15 @@ The [BitCurator Access team](https://github.com/bitcurator/bitcurator-access/wik
 The Software Developer will write, test and document software to redact – at both the block level and the file level – patterns identified within born-digital materials. S/he will report to Kam Woods, the Technical Lead of the BitCurator Access project.
 
 **Required:**
-– At least one year of Python development experience
-– Working knowledge of file system structures and modern file system metadata
-– Working knowledge of XML schema design and Python libraries/wrappers to manipulate XML structures (e.g. Expat, ElementTree)
-– Must be comfortable using revision control with git and GitHub
-– Working knowledge of Linux development environments
+* At least one year of Python development experience
+* Working knowledge of file system structures and modern file system metadata
+* Working knowledge of XML schema design and Python libraries/wrappers to manipulate XML structures (e.g. Expat, ElementTree)
+* Must be comfortable using revision control with git and GitHub
+* Working knowledge of Linux development environments
 
 **Desirable:**
-– Prior experience with open source digital forensics libraries and tools (e.g. The Sleuth Kit, libewf, Digital Forensics XML)
-– Familiarity with Python scientific and data analysis libraries (SciPy and Pandas in particular)
+* Prior experience with open source digital forensics libraries and tools (e.g. The Sleuth Kit, libewf, Digital Forensics XML)
+* Familiarity with Python scientific and data analysis libraries (SciPy and Pandas in particular)
 
 **Compensation:**
 Up to $25 per hour based on experience. Work to be performed over the summer.
@@ -523,13 +531,13 @@ The intern will be expected to work 10-15 hours per week, and will be paid $12 p
 7. Assisting with the creation of training and professional development activities/proposals
 
 **Qualifications**
-– Exceptional written and oral communication skills
-– Demonstrated interest and involvement in the digital library and digital preservation communities
-– Ability to work under pressure, to adjust to change, to handle multiple tasks, and to coordinate the work of extended groups of member representatives
+* Exceptional written and oral communication skills
+* Demonstrated interest and involvement in the digital library and digital preservation communities
+* Ability to work under pressure, to adjust to change, to handle multiple tasks, and to coordinate the work of extended groups of member representatives
 
 **Preferred**
-– Experience in managing collaborative projects
-– Proven ability to produce/execute reports and project plans
+* Experience in managing collaborative projects
+* Proven ability to produce/execute reports and project plans
 
 **Instructions to applicants**
 Please submit a resume, cover letter, and three professional references to Katherine Skinner (Executive Director, Educopia):
@@ -622,9 +630,9 @@ The 1st Annual [BitCurator User Forum](http://educopia.org/events/BUF2015) will 
 
 Join BitCurator users from around the globe for a hands-on day focused on current use and future development of the BitCurator digital software environment. Hosted by the BitCurator Consortium (BCC), this event will be grounded in the practical, boots-on-the-ground experiences of digital archivists and curators. Come wrestle with current challenges—engage in disc image format debates, investigate emerging BitCurator integrations and workflows, and discuss the “now what” of handling your digital forensics outputs.
 
-General Registration – $30
-Student Registration – $15
-BitCurator Consortium Member Registration – Free
+* General Registration – $30
+* Student Registration – $15
+* BitCurator Consortium Member Registration – Free
 
 Take a sneak peak at the [scheduled program](http://educopia.org/sites/educopia.org/files/BitCurator_Users_Forum_2015_Program_0.pdf).
 
@@ -643,9 +651,9 @@ The latest issue of [International Journal of Digital Curation](http://ijdc.net/
 ### Announcement: BitCurator Access!
 *(originally published October 21, 2014)*
 
-Press Release ([pdf](http://www.bitcurator.net/wp-content/uploads/2014/10/BCAccess-PressRelease.pdf))
-Release date:
-October 21, 2014
+Press Release ([pdf](http://www.bitcurator.net/wp-content/uploads/2014/10/BCAccess-PressRelease.pdf))  
+Release date:  
+October 21, 2014  
 **Andrew W. Mellon Foundation Grant Supports Improving Access to Born-Digital Collections for Collecting Institutions**
 
 CHAPEL HILL – [The University of North Carolina at Chapel Hill’s School of Information and Library Science (SILS)](http://sils.unc.edu/) has received a grant for $750,000 from the [Andrew W. Mellon Foundation](https://mellon.org) for a project that focuses on simplifying and improving access to the contents of disk images in born-digital collections for use by libraries, archives, and museums (LAMs).
@@ -852,170 +860,173 @@ Amanda Visconti is a MITH graduate research assistant on the BitCurator project,
 
 Let’s say a digital beauty like this makes its way into your collection:
 
-The lid of the Larsen laptop is covered in flower and lace doily decals.
-The lid of the Larsen laptop is covered in flower and lace doily decals.
-BitCurator can aid us in such investigations by freeing Larsen’s laptop data from its storage media (which will fail eventually), capturing important contextual details about Larsen’s original work environment, and helping to ensure the authenticity and integrity of files during forensic processing (see this page on how BitCurator fits into existing archival workflows, or this page on how the individual tools making up the BitCurator suite address particular archival concerns, for more information on what BitCurator can do).
+![The lid of the Larsen laptop is covered in flower and lace doily decals.](https://bitcurator.github.io/images/posts/original-mac-300x158.jpg)
+
+BitCurator can aid us in such investigations by freeing Larsen’s laptop data from its storage media (which will fail eventually), capturing important contextual details about Larsen’s original work environment, and helping to ensure the authenticity and integrity of files during forensic processing (see [this page on how BitCurator fits into existing archival workflows](https://confluence.educopia.org/display/BC/Workflow+Overview), or [this page on how the individual tools making up the BitCurator suite address particular archival concerns](https://confluence.educopia.org/display/BC/Tasks+and+Tools+Overview), for more information on what BitCurator can do).
 
 To use BitCurator, we’ll need to figure out how to connect the laptop’s hard drive to the BitCurator environment; this post will explore how you can similarly image your Mac laptop for digital forensic work.
 
-Why is it difficult to image an internal Mac laptop drive?
+**Why is it difficult to image an internal Mac laptop drive?**
 
 You can get to work quickly with BitCurator if you’ve got a digital device ready to be connected to your computer: an external hard drive or removed internal hard drive, a floppy disk port, a USB stick, or other devices and the cables to attach them to your host machine.
 
 With a Mac laptop, however, the device isn’t as easy to get at. If it’s a working, explorable laptop, as with Larsen’s, there’s a risk to that working status associated with temporarily physically removing the drive for imaging via a SATA cable—so we’d like to avoid opening the laptop up if possible, and find some other way of imaging the drive.
 
-Mac in target disk mode.
-Mac in target disk mode.
+![Mac in target disk mode.](https://bitcurator.github.io/images/posts/opened-mac-267x300.jpg)
+
 Imaging the laptop hard drive by connecting one of its exterior ports (e.g. USB) seems like the way to go, but Macs are finicky about showing up as drives on other computers.
 
-If you want to see your Mac laptop as a drive mounted on another computer (and thus be able to image it), you’ll need to set the laptop to something called Target Disk Mode:
+If you want to see your Mac laptop as a drive mounted on another computer (and thus be able to image it), you’ll need to set the laptop to something called [Target Disk Mode](http://en.wikipedia.org/wiki/Target_Disk_Mode):
 
-Target Disk Mode Steps
+*Target Disk Mode Steps*
 
-The laptop to be imaged (e.g. our Larsen laptop) should be turned off.
-Hold down the t key and turn the laptop to be imaged on.
-Continue to hold down the t key until the target disk mode image appears on the screen (see photo example).
-You can now attach the target disk via firewire cable to a machine with BitCurator running in a partition, and the Mac laptop should show up as a connected drive like any other connected device.
+1. The laptop to be imaged (e.g. our Larsen laptop) should be turned off.
+2. Hold down the t key and turn the laptop to be imaged on.
+3. Continue to hold down the t key until the target disk mode image appears on the screen (see photo example).
+4. You can now attach the target disk via firewire cable to a machine with BitCurator running in a partition, and the Mac laptop should show up as a connected drive like any other connected device.
+
 Unfortunately, target disk mode can only transfer data over a firewire; using other ports/cables such as USB will not work. This presents three problems:
 
-Both your laptop and the machine running BitCurator must have firewire ports to allow for the firewire
-You’ll need to be running BitCurator on a partition and not as a virtual machine, as VirtualBox can’t handle firewire input
-If you want to use a hardware write-blocker, it will need to have both firewire input and output
+1. Both your laptop and the machine running BitCurator must have firewire ports to allow for the firewire
+2. You’ll need to be [running BitCurator on a partition](https://confluence.educopia.org/pages/viewpage.action?pageId=2490485) and not as a virtual machine, as VirtualBox can’t handle firewire input
+3. If you want to use a hardware write-blocker, it will need to have both firewire input and output
+
 This use case is Mac plus laptop-specific: that is, desktop Macs don’t use the compact unibody design of the laptop, so it’s far easier to open the case and connect the hard drive to a machine running BitCurator (thus there is no need to adopt Target Disk Mode). And non-Mac laptops will show up as image-able drives on other machines automatically, without the special needs of the Mac Target Disk Mode.
 
-Our Choice: Imaging with BitCurator on a Partition
+**Our Choice: Imaging with BitCurator on a Partition**
 
-Imaging the Larsen Mac laptop using a firewire and PC partitioned with the BitCurator Ubuntu.
-Imaging the Larsen Mac laptop using a firewire and PC partitioned with the BitCurator Ubuntu.
+![Imaging the Larsen Mac laptop using a firewire and PC partitioned with the BitCurator Ubuntu.](https://bitcurator.github.io/images/posts/mac-target-mode-300x225.jpg)
+
 Why? We had the necessary components to let BitCurator recognize the Mac laptop as a drive: a firewire cable, a firewire port on the Larsen Mac, and a firewire port on a PC partitioned with BitCurator.
 
-Our hardware write-blocker (WiebeTech Forensic ComboDock), used to protect devices from being written to while we're imaging them.
-Our hardware write-blocker (WiebeTech Forensic ComboDock), used to protect devices from being written to while we’re imaging them.
-We weren’t able to use our usual hardware write-blocker, as it only takes firewire input but doesn’t output it; BitCurator incorporates a feature that can mount devices safely, however, so we were still able to protect the device from being written back to. Follow these instructions to safely mount devices in BitCurator.
+![Our hardware write-blocker (WiebeTech Forensic ComboDock), used to protect devices from being written to while we're imaging them.](https://bitcurator.github.io/images/posts/IMG_0485-1024x913-300x267.jpg)
 
-The software write-blocker safely mounts the laptop as a drive.
-The software write-blocker safely mounts the laptop as a drive.
-Next, we used BitCurator’s bundled Guymager software to forensically image the laptop (see these instructions or this video for steps to use Guymager yourself.) This produced a forensic image of the laptop, which we’ll be further exploring with BitCurator in a future post.
+We weren’t able to use our usual hardware write-blocker, as it only takes firewire input but doesn’t output it; BitCurator incorporates a feature that can mount devices safely, however, so we were still able to protect the device from being written back to. [Follow these instructions](https://confluence.educopia.org/display/BC/Safely+Mount+Devices) to safely mount devices in BitCurator.
 
-Using BitCurator's Guymager instance to forensically image the laptop.
-Using BitCurator’s Guymager instance to forensically image the laptop.
+![The software write-blocker safely mounts the laptop as a drive.](https://bitcurator.github.io/images/posts/IMG_0491-1024x588-300x172.jpg)
+
+Next, we used BitCurator’s bundled Guymager software to forensically image the laptop ([see these instructions](https://confluence.educopia.org/display/BC/Creating+a+Disk+Image+Using+Guymager) or [this video](https://www.youtube.com/watch?v=LurmJ5axaYc) for steps to use Guymager yourself.) This produced a forensic image of the laptop, which we’ll be further exploring with BitCurator in a future post.
+
+![Using BitCurator's Guymager instance to forensically image the laptop.](https://bitcurator.github.io/images/posts/IMG_0493-1024x529-300x155.jpg)
+
 In another future post, I’ll discuss an alternative approach for those of you who couldn’t follow these instructions (e.g. no firewire port, no BitCurator running on a partition).
 
 Send us your suggestions for other difficult-to-image use cases and we’ll cover them in future posts!
 
-Amanda Visconti is a MITH graduate research assistant on the BitCurator project, where she creates user-friendly technical documentation, develops and designs for the web, and researches software usability. As a Literature Ph.D. candidate, she blogs about her digital humanities work regularly at LiteratureGeek.com.
+Amanda Visconti is a [MITH graduate research assistant](http://mith.umd.edu/people/person/amanda-visconti/) on the BitCurator project, where she creates user-friendly technical documentation, develops and designs for the web, and researches software usability. As a Literature Ph.D. candidate, she blogs about her digital humanities work regularly at [LiteratureGeek.com](https://literaturegeek.com/).
 
 ### BitCurator Version 0.8.4 Now Available 
 *(originally published April 21, 2014)*
 
 Hello everyone,
-The latest release of the BitCurator environment (0.8.4) is now available on our release portal. Direct links and MD5 checksums can be found on the wiki, or you can follow the links below:
+The latest release of the BitCurator environment (0.8.4) is [now available on our release portal](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). Direct links and MD5 checksums can be found on the wiki, or you can follow the links below:
 
-The BitCurator Virtual Machine – 2.5GB
-The BitCurator Installation ISO – 2.2GB
+[The BitCurator Virtual Machine](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) – 2.5GB
+[The BitCurator Installation ISO](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) – 2.2GB
 
 This release includes a range of stability updates and bug fixes. Items of note:
 
-– Floppy disk drive access restored. This had become disabled in the previous release due to a system update to the Ubuntu core.
-– Installation bug preventing complete installation on laptops with certain types of webcams fixed.
-– File system output in Excel format now includes file format identification field.
-– BitCurator configuration file (in /etc/bitcurator/bc_report_config.txt) and supporting software module updated to simplify tuning of report file output. Additional documentation to follow on the wiki.
+* Floppy disk drive access restored. This had become disabled in the previous release due to a system update to the Ubuntu core.
+* Installation bug preventing complete installation on laptops with certain types of webcams fixed.
+* File system output in Excel format now includes file format identification field.
+* BitCurator configuration file (in /etc/bitcurator/bc\_report\_config.txt) and supporting software module updated to simplify tuning of report file output. Additional documentation to follow on the wiki.
 
-– VirtualBox additions updated to 4.3.10. Our updated Quickstart guide can be found on the release portal, or in the Documentation folder on the BitCurator environment desktop.
+VirtualBox additions updated to 4.3.10. Our updated Quickstart guide can be found on the release portal, or in the Documentation folder on the BitCurator environment desktop.
 
 As with previous releases, this environment is built on a 64-bit version of Ubuntu and may be unstable on certain 32-bit host operating systems, or host hardware with less than 4GB of RAM. Please don’t hesitate to post here if you have questions!
 
 ### BitCurator Webinar Series: Announcing a Second Session on Digital Forensics Metadata
 *(originally published April 2, 2014)*
 
-
 Due to the interest in this topic, we have added a second session of this webinar to be held on Thursday, April 17th at 11:00am Eastern Time.
 
-Join us for BitCurator’s monthly webinar series on applying digital forensics tools and methods to the preservation of born-digital materials in collecting institutions. The webinar will be held on Thursday, April 17th at 11:00am Eastern Time. You can register for the webinar at https://bitcurator-metadata-s2.eventbrite.com.
+Join us for BitCurator’s monthly webinar series on applying digital forensics tools and methods to the preservation of born-digital materials in collecting institutions. The webinar will be held on Thursday, April 17th at 11:00am Eastern Time. You can register for the webinar at [https://bitcurator-metadata-s2.eventbrite.com](https://bitcurator-metadata-s2.eventbrite.com/).
 
 This month’s webinar will focus on BitCurator and metadata output, including the following topics:
 
-Metadata produced by the image capture process
-File system metadata
-An overview of DFXML and export capabilities
-PREMIS event system metadata
-How BitCurator-generated metadata fits into your archival workflow
+* Metadata produced by the image capture process
+* File system metadata
+* An overview of DFXML and export capabilities
+* PREMIS event system metadata
+* How BitCurator-generated metadata fits into your archival workflow
+
 There are no prerequisites for this webinar; however, it is designed for users already familiar with the basic operations of the BitCurator environment. The webinar will be roughly one hour with 10 minutes for Q&A at the end.
 
 ### BitCurator Webinar on Working with External Media Recording Now Available
 *(originally published March 19, 2014)*
 
-For those who were unable to attend February’s webinar on external media and the BitCurator environment, a recording of the event can be viewed here. BitCurator webinar on external media.
+For those who were unable to attend February’s webinar on external media and the BitCurator environment, a recording of the event can be viewed here: [BitCurator webinar on external media](https://webmeeting.umd.edu/p5m1qf2wxeh/)
 
 ### BitCurator Webinar Series: BitCurator and Digital Forensics Metadata Output
 *(originally published March 13, 2014)*
 
 Note: Due to a scheduling conflict with one of the presenters, this webinar has been rescheduled for April 9th.
 
-Join us for BitCurator’s montly webinar series on applying digital forensics tools and methods to the preservation of born-digital materials in collecting institutions. The webinar will be held on Wednesday, April 9th at 11:00am EST. You can register for the webinar at https://bitcuratorandmetadata.eventbrite.com.
+Join us for BitCurator’s montly webinar series on applying digital forensics tools and methods to the preservation of born-digital materials in collecting institutions. The webinar will be held on Wednesday, April 9th at 11:00am EST. You can register for the webinar at [https://bitcuratorandmetadata.eventbrite.com](https://bitcuratorandmetadata.eventbrite.com/).
 
 This month’s webinar will focus on BitCurator and metadata output, including the following topics:
 
-Metadata produced byt the image capture process
-File system metadata
-An overview of DFXML and export capabilities
-PREMIS event system metadata
-How BitCurator-generated metadata fits into your archival workflow
+* Metadata produced byt the image capture process
+* File system metadata
+* An overview of DFXML and export capabilities
+* PREMIS event system metadata
+* How BitCurator-generated metadata fits into your archival workflow
+
 There are no prerequisites for this webinar; however, it is designed for users already familiar with the basic operations of the BitCurator environment. The webinar will be roughly one hour with 10 minutes for Q&A at the end.
 
 ### Bitcurator: Forensics for Collecting Institutions (Part 1 of 2)
 *(originally published March 5, 2014)*
 
-Part one of two guest posts by Kari R. Smith of the Massachusetts Institute of Technology Libraries, Institute Archives and Special Collections. Cross-posted from the Engineering the Future of the Past blog (CC BY-SA 3.0).
+**Part one of two guest posts by [Kari R. Smith](http://www.globalarchivist.com/) of the Massachusetts Institute of Technology Libraries, Institute Archives and Special Collections. [Cross-posted](https://libraries.mit.edu/digital-archives/bitcurator-part-1/) from the *[Engineering the Future of the Past](https://libraries.mit.edu/digital-archives/)* blog [(CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/us/).**
 
 We’ve been busy the past few months.  Take the blog silence for the quiet of busy beavers rather than the absence of activity!
 
-Photo of BitCurator Project Sticker
-BitCurator Project Sticker
-As noted in the workflow diagrams, one of the tools that we are assessing both in terms of functionality and how it might fit into our workflows is BitCurator.  The BitCurator Team has lot of information on their project and release portal pages that you should read to keep current on this Mellon funded project.
+![Photo of BitCurator Project Sticker](https://bitcurator.github.io/images/posts/20140221_162751.jpg) *BitCurator Project Sticker*
 
-Photo of the BitCurator in a Box. Includes two write-blockers, cables and cords, and BitCurator program on a USB drive
-Photo of the BitCurator in a Box. Includes two write-blockers, cables and cords, and BitCurator program on a USB drive
-The BitCurator Project is an open-source digital forensics environment in which collecting institutions can create and analyze forensic disk images of digital content, whether from a file server or from media.  Read this page on the BitCurator website for more specifics on the projects and the tools incorporated into the environment.
+As noted in the workflow diagrams, one of the tools that we are assessing both in terms of functionality and how it might fit into our workflows is BitCurator.  The BitCurator Team has lot of information on their [project](https://bitcurator.net) and [release portal](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) pages that you should read to keep current on this Mellon funded project.
+
+![Photo of the BitCurator in a Box. Includes two write-blockers, cables and cords, and BitCurator program on a USB drive](https://bitcurator.github.io/images/posts/20140211_140501.jpg) *Photo of the BitCurator in a Box. Includes two write-blockers, cables and cords, and BitCurator program on a USB drive*
+
+The BitCurator Project is an open-source digital forensics environment in which collecting institutions can create and analyze forensic disk images of digital content, whether from a file server or from media.  [Read this page on the BitCurator website](http://www.bitcurator.net/aboutbc/) for more specifics on the projects and the tools incorporated into the environment.
 
 We’ve been testing versions of the BitCurator tools since version 3.0.  Happily, the project and team have been doing great work with adding tools, functionality, GUI, and reporting capabilities.  BitCurator 0.7.4 was released on February 2, 2014 and is the current version we are assessing.
 
 As an activity of the Digital Sustainability Lab in the Libraries, there is input into the assessment from both the Institute Archives and Special Collections staff and from the Digital Curation and Preservation staff in the MIT Libraries.
 
-The BitCurator team is fantastic and are very responsive to feedback and questions regarding how to use and implement BitCurator in your digital curation workflow.  For instance, at the recent DigCCurr Institute, CurateGear presentations it came up that there was a BitCurator in a Box that can be borrowed for formal assessment purposes.  We asked and after the most current release at that time we were mailed the box.  Along with a formal testing plan and required questions/ answers to return to the BitCurator Team, was a jumpdrive with the BitCurator install files and two write-blockers with accompanying cables and cords. It is all packed into a Pelican case for shock absorption and a cool factor.
+The BitCurator team is fantastic and are very responsive to feedback and questions regarding how to use and implement BitCurator in your digital curation workflow.  For instance, at the recent [DigCCurr Institute](http://ils.unc.edu/digccurr/curategear2014.html), [CurateGear](http://ils.unc.edu/digccurr/curategear2014.html) presentations it came up that there was a BitCurator in a Box that can be borrowed for formal assessment purposes.  We asked and after the most current release at that time we were mailed the box.  Along with a formal testing plan and required questions/ answers to return to the BitCurator Team, was a jumpdrive with the BitCurator install files and two write-blockers with accompanying cables and cords. It is all packed into a Pelican case for shock absorption and a cool factor.
 
 The next blog post on this topic will frame our assessment and the issues and considerations that we are addressing.
 
 ### BitCurator This Week (February 24th)
 *(originally published February 24, 2014)*
 
-The BitCurator team will be participating in a number of outreach activities this week, including talks by Cal Lee at the Personalized Access to Cultural Heritage (PATCH) conference, Alex Chassanoff at the International Digital Curation Conference (IDCC 2014), and Porter Olsen at MITH’s Digital Dialogues lecture series. Details for each are listed below. Check back next week for follow-up posts on each of the different venues.
+The BitCurator team will be participating in a number of outreach activities this week, including talks by Cal Lee at the [Personalized Access to Cultural Heritage (PATCH) conference](http://patch2014.wordpress.com/program/), Alex Chassanoff at the [International Digital Curation Conference (IDCC 2014)](http://www.dcc.ac.uk/events/idcc14/day-two-papers), and Porter Olsen at [MITH’s Digital Dialogues lecture series](http://mith.umd.edu/podcasts/dd-spring-2014-porter-olsen/). Details for each are listed below. Check back next week for follow-up posts on each of the different venues.
 
-Cal Lee
+**Cal Lee**
 
-“Up Close and Personal: Individual Digital Traces as Cultural Heritage and Discovery through Forensics Tools”   PATCH 2014–Monday, Feb. 24th at 10:30 IST.
+[“Up Close and Personal: Individual Digital Traces as Cultural Heritage and Discovery through Forensics Tools”](http://patch2014.files.wordpress.com/2012/07/submission-4-version-of-dec-13-22_45.pdf) PATCH 2014–Monday, Feb. 24th at 10:30 IST.
 
-Alex Chassanoff
+**Alex Chassanoff**
 
-“Integrating digital forensics techniques into curatorial tasks: A Case Study” with Sam Meister of the University of Montana. IDCC 2014–Wednesday, Feb. 26th at 3:00pm PST.
+[“Integrating digital forensics techniques into curatorial tasks: A Case Study”](http://www.dcc.ac.uk/events/idcc14/day-two-papers) with Sam Meister of the University of Montana. IDCC 2014–Wednesday, Feb. 26th at 3:00pm PST.
 
-Porter Olsen
+**Porter Olsen**
 
-“What Falls Out: Preserving our Digital Heritage with BitCurator.” MITH Digital Dialogues–Tuesday, Feb. 25th at 12:30 EST.
+[“What Falls Out: Preserving our Digital Heritage with BitCurator.”](http://mith.umd.edu/podcasts/dd-spring-2014-porter-olsen/) MITH Digital Dialogues–Tuesday, Feb. 25th at 12:30 EST.
 
 ### BitCurator 0.7.4 Now Available
 *(originally published February 18, 2014)*
 
-The latest release of the BitCurator environment (0.7.4) is now available on our Release page (https://github.com/BitCurator/bitcurator-distro/wiki/Releases). We’re continuing to provide download options on our existing host and via iBiblio. Direct links and MD5 checksums can be found on the Release page.
+The latest release of the BitCurator environment (0.7.4) is now available on our Release page [(https://github.com/BitCurator/bitcurator-distro/wiki/Releases)](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). We’re continuing to provide download options on our existing host and via iBiblio. Direct links and MD5 checksums can be found on the Release page.
 
 This release includes the following updates:
 
-– The mounting scripts have been fixed to mount disk images – without asking for authentication – from all locations.
-– The desktop now includes a folder named “Shared Folders and Media” that points to the /media directory. When users adds a host shared folder, it will automatically appear in this location with an “sf_”  prefix.
-– ClamTK is now linked in the Additional Tools folder.
-– The filint tool is also now linked in the Additional Tools folder as a convenience for keeping the VM clean.
-– The ficlam scripts, which run ClamAV scans during a fiwalk run, are now in the /Tools/ficlam directory, and there is a slide showing how to run them in the Quickstart guide.
-– A dd command-line launcher has been added to the Imaging Tools directory
+* The mounting scripts have been fixed to mount disk images – without asking for authentication – from all locations.
+* The desktop now includes a folder named “Shared Folders and Media” that points to the /media directory. When users adds a host shared folder, it will automatically appear in this location with an “sf_”  prefix.
+* ClamTK is now linked in the Additional Tools folder.
+* The filint tool is also now linked in the Additional Tools folder as a convenience for keeping the VM clean.
+* The ficlam scripts, which run ClamAV scans during a fiwalk run, are now in the /Tools/ficlam directory, and there is a slide showing how to run them in the Quickstart guide.
+* A dd command-line launcher has been added to the Imaging Tools directory
 
 Our updated Quickstart guide can be found in the Documentation folder on the BitCurator environment desktop.
 
@@ -1024,10 +1035,9 @@ As with previous releases, this environment is built on a 64-bit version of Ubun
 ### Call for Proposals: BitCurator On-Site Visit and Training
 *(originally published February 7, 2014)*
 
-
 The BitCurator project has funds for a limited number of on-site BitCurator training and workshop visits. We are requesting proposals from collecting institutions (libraries, museums, and archives) who are interested in having a member of the BitCurator team visit their institution to conduct a workshop and/or provide hands-on training for archivists currently working with born-digital materials. Priority will be given to institutions who are already working with digital collections and wish to add BitCurator to their workflows.
 
-About the BitCurator Project
+**About the BitCurator Project**
 
 BitCurator, funded by the Andrew W. Mellon Foundation, is a joint effort led by the School of Information and Library Science at the University of North Carolina, Chapel Hill (SILS) and the Maryland Institute for Technology in the Humanities (MITH) to develop a system for collecting professionals that incorporates the functionality of many digital forensics tools.
 
@@ -1035,63 +1045,64 @@ In Phase I (November 2011 – September 2013), the BitCurator team developed the
 
 In Phase II of the BitCurator project (now ongoing) we are continuing to develop the BitCurator environment while simultaneously working to build a community of BitCurator users who will help sustain the project into the future.
 
-Scope of Site Visits
+**Scope of Site Visits**
 
 Site visits are a chance for you to learn more about the use of digital forensics in digital curation and receive hands-on training from a member of the BitCurator team. Site visits might include visiting a library, museum, or archive, or attending an event such as a professional conference or workshop. We also welcome proposals to visit area institutions that may include any of the above.
 
 There are three main objectives to the BitCurator site visits:
 
-Educate digital curation practitioners (considered broadly) at the host institutions/events about the BitCurator project, its goals, and development thus far
+1. Educate digital curation practitioners (considered broadly) at the host institutions/events about the BitCurator project, its goals, and development thus far
 
-Provide hands-on training in the BitCurator environment for one or more digital archivists at the host institutions/events
+2. Provide hands-on training in the BitCurator environment for one or more digital archivists at the host institutions/events
 
-Work to develop digital curation workflows that include the digital forensics tools in the BitCurator environment
+3. Work to develop digital curation workflows that include the digital forensics tools in the BitCurator environment
 
 To achieve those goals, the BitCurator Community Lead, Porter Olsen, will visit the host institution for one to two days, depending on the pre-arranged itinerary.
 
-Proposal Details
+**Proposal Details**
 
 Please submit your proposal by emailing it to Porter Olsen at: polsen at umd do edu. Proposals should include the following information:
 
-Name of the host or hosts (proposals involving multiple institutions in the same location are strongly encouraged)
+* Name of the host or hosts (proposals involving multiple institutions in the same location are strongly encouraged)
 
-Type and name of the host institution or event
+* Type and name of the host institution or event
 
-Date on which you would like to host the visit
+* Date on which you would like to host the visit
 
-A brief description of existing digital curation efforts currently underway at your institution
+* A brief description of existing digital curation efforts currently underway at your institution
 
-The outcomes you would like to achieve as the result of a BitCurator site visit
+* The outcomes you would like to achieve as the result of a BitCurator site visit
 
-Any opportunities for public demonstrations or discussions of BitCurator (ex: guest lectures, speaking engagements, workshops, etc.)
+* Any opportunities for public demonstrations or discussions of BitCurator (ex: guest lectures, speaking engagements, workshops, etc.)
 
 You may also wish to include details regarding the digital or hybrid collection(s) you are working with at your institution. Such details might include:
 
-Name of the collection
+* Name of the collection
 
-Types of media in the collection
+* Types of media in the collection
 
-Hardware being use to process the collection
+* Hardware being use to process the collection
 
-Current digital curation workflows
+* Current digital curation workflows
 
 As noted, the BitCurator project has funding to cover travel and lodging at the host institution; however, cost-sharing is welcome, and may impact our ability to accommodate a given visit.
 
-Submission Details
+**Submission Details**
 
-Please submit your proposal to Porter Olsen via email at: polsen at umd dot edu. Submissions will be reviewed on an ongoing basis, but all site visits must be conducted before September 15, 2014.
+Please submit your proposal to Porter Olsen via email at: **polsen at umd dot edu**. Submissions will be reviewed on an ongoing basis, but all site visits must be conducted before September 15, 2014.
 
 ### BitCurator 0.7.0 Now Available
 *(originally published February 2, 2014)*
 
-The latest release of the BitCurator environment (0.7.0) is now available on our Release page (https://github.com/BitCurator/bitcurator-distro/wiki/Releases). We’re continuing to provide download options on our existing host and via iBiblio. Direct links and MD5 checksums can be found on the Release page.
+The latest release of the BitCurator environment (0.7.0) is now available on our Release page [(https://github.com/BitCurator/bitcurator-distro/wiki/Releases)](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). We’re continuing to provide download options on our existing host and via iBiblio. Direct links and MD5 checksums can be found on the Release page.
 
 This release includes the following updates:
 
-File Export tab added to GUI. This new tab runs fiwalk and uses the output to generate a tree-style hierachy of the file system in a new window. This allows you to safely navigate through directory and file contents and export file items without having to mount the file system.
-Removes bugs affecting the operation of the fiwalk and annotation tabs in the BitCurator GUI.
-Updates The Sleuth Kit to 4.1.3.
-Now includes ClamTK, a graphical front-end to the Clam virus scanner. ClamTK simplifies the process of scanning mounted file systems and regular directory contents.
+* File Export tab added to GUI. This new tab runs fiwalk and uses the output to generate a tree-style hierachy of the file system in a new window. This allows you to safely navigate through directory and file contents and export file items without having to mount the file system.
+* Removes bugs affecting the operation of the fiwalk and annotation tabs in the BitCurator GUI.
+* Updates The Sleuth Kit to 4.1.3.
+* Now includes ClamTK, a graphical front-end to the Clam virus scanner. ClamTK simplifies the process of scanning mounted file systems and regular directory contents.
+
 Our updated Quickstart guide can be found in the Documentation folder on the BitCurator environment desktop.
 
 As with previous releases, this environment is built on a 64-bit version of Ubuntu and may be unstable on certain 32-bit host operating systems, or host hardware with less than 4GB of RAM.
@@ -1099,36 +1110,36 @@ As with previous releases, this environment is built on a 64-bit version of Ubun
 ### BitCurator Webinar Series: Working with External Media in BitCurator
 *(originally published January 27, 2014)*
 
-Join us for our next webinar by registering here.
+**Join us for our next webinar by [registering here](https://www.eventbrite.com/e/bitcurator-webinar-series-working-with-external-media-in-bitcurator-tickets-10332756553).**
 
-Date: Wednesday, February 19, 2014
+*Date: Wednesday, February 19, 2014*
 
-Time: 11:00 AM to 12:00 PM (EST)
+*Time: 11:00 AM to 12:00 PM (EST)*
 
 Before scanning for PII or analyzing a file tree, the digital archivist must first be able to read and transfer data from the original storage media to a long-term sustainable format. Accessing data on original media–especially for legacy media such as 5.25”, 3.5” and Zip disks–can often present a challenge and may require specialized hardware. This webinar covers the various methods and hardware tools required to capture forensic disk images from a wide variety of media types for use within the BitCurator environment. Topics covered will include:
 
-An overview of media reader devices for legacy media, including the Kryoflux and FC5025 floppy drive controllers
+* An overview of media reader devices for legacy media, including the Kryoflux and FC5025 floppy drive controllers
 
-Using media devices with BitCurator running as a virtual machine
+* Using media devices with BitCurator running as a virtual machine
 
-How and why to use a write-blocker in digital acquisition
+* How and why to use a write-blocker in digital acquisition
 
-An introduction to the Forensics Recovery of Evidence Device (FRED), a computer system designed for the acquisition and imaging of a broad array of external and internal media, now frequently used by digital archivists in collecting institutions
+* An introduction to the Forensics Recovery of Evidence Device (FRED), a computer system designed for the acquisition and imaging of a broad array of external and internal media, now frequently used by digital archivists in collecting institutions
 
 There are no prerequisites for this webinar; however, it is designed for users already familiar with the basic operations of the BitCurator environment. The webinar will be roughly one hour with 10 minutes for Q&A at the end.
 
 ### BitCurator 0.6.2 Now Available
 *(originally published January 24, 2014)*
 
-The latest release of the BitCurator environment (0.6.2) is now available at our Release site (https://github.com/BitCurator/bitcurator-distro/wiki/Releases). As of 0.6.2, iBiblio serves as our primary distribution site. There should be a noticeable improvement in download speeds, particularly for international users. Direct links and MD5 checksums can be found on the Release page.
+The latest release of the BitCurator environment (0.6.2) is now available at our Release site [(https://github.com/BitCurator/bitcurator-distro/wiki/Releases)](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). As of 0.6.2, iBiblio serves as our primary distribution site. There should be a noticeable improvement in download speeds, particularly for international users. Direct links and MD5 checksums can be found on the Release page.
 
 This release includes the following updates:
 
-– Removes a bug where raw disk images could not be processed via the GUI
-– Updates reporting tool to accommodate recent changes in identify_filenames
-– bulk_extractor upgraded to 1.4.4. This addresses a number of issues, including a base64-encoded data handling bug.
-– Guymager upgraded to 0.7.3 — many improvements; see http://sourceforge.net/p/guymager/wiki/Guymager%200.7.x/
-– Moves pre-release install scripts to a staging area
+* Removes a bug where raw disk images could not be processed via the GUI
+* Updates reporting tool to accommodate recent changes in identify\_filenames
+* bulk\_extractor upgraded to 1.4.4. This addresses a number of issues, including a base64-encoded data handling bug.
+* Guymager upgraded to 0.7.3 — many improvements; see [http://sourceforge.net/p/guymager/wiki/Guymager%200.7.x/](http://sourceforge.net/p/guymager/wiki/Guymager%200.7.x/)
+* Moves pre-release install scripts to a staging area
 
 Our updated Quickstart guide can be found in the Documentation folder on the BitCurator environment desktop.
 
@@ -1139,7 +1150,7 @@ As with previous releases, this environment is built on a 64-bit version of Ubun
 ### BitCurator 0.5.8 Now Available
 *(originally published December 20, 2013)*
 
-BitCurator environment (0.5.8) is now available at our Release site (https://github.com/BitCurator/bitcurator-distro/wiki/Releases).
+BitCurator environment (0.5.8) is now available at our Release site [(https://github.com/BitCurator/bitcurator-distro/wiki/Releases)](https://github.com/BitCurator/bitcurator-distro/wiki/Releases).
 
 This is a maintenance release that reduces the size on disk of the VM and ISO, eliminates an inaccurate error message on startup for some machines, and updates the VirtualBox extensions to 4.3.6.
 
@@ -1152,33 +1163,34 @@ As with previous releases, this environment is built on a 64-bit version of Ubun
 
 Our second in the BitCurator Webinar Series, this webinar builds on last month’s introduction to the BitCurator environment and offers a closer look at three of the main tools that comprise the BitCurator environment:
 
-bulk\_extractor and BEViewer: digital forensics tools that can locate personally identifiable information (PII) and other types of sensitive data on a disk image
-fiwalk: a digital forensics tool that processes a disk image using the SleuthKit library and outputs its results in Digital Forensics XML
-The BitCurator Reporting Tool: BitCurator’s graphical interface for running the above tools and producing the BitCurator reports
-The webinar will be held from 11:00 AM – 12:00 PM (EST). Please register in advance here: http://bitcurator-dftools.eventbrite.com
+* bulk\_extractor and BEViewer: digital forensics tools that can locate personally identifiable information (PII) and other types of sensitive data on a disk image
+* fiwalk: a digital forensics tool that processes a disk image using the SleuthKit library and outputs its results in Digital Forensics XML
+* The BitCurator Reporting Tool: BitCurator’s graphical interface for running the above tools and producing the BitCurator reports
+
+The webinar will be held from 11:00 AM – 12:00 PM (EST). Please register in advance here: [http://bitcurator-dftools.eventbrite.com](http://bitcurator-dftools.eventbrite.com/)
 
 While there are no prerequisites for this webinar, it is designed for users already familiar with the basic operations of the BitCurator environment. The webinar will be roughly one hour with 10 minutes for Q&A at the end.
 
-To learn more about BitCurator, please visit the main BitCurator page at bitcurator.net. You are also invited to join the BitCurator users group, join our facebook group, and follow us on twitter at @BitCurator.
+To learn more about BitCurator, please visit the main BitCurator page at [bitcurator.net](https://bitcurator.net/). You are also invited to join the [BitCurator users group](https://groups.google.com/forum/?fromgroups#%21forum/bitcurator-users), join our facebook group, and follow us on twitter at @BitCurator.
 
 ### New White Paper from the BitCurator Team on Putting Digital Forensics into Practice in Collecting Institutions
 *(originally published November 26, 2013)*
 
-The BitCurator team is pleased to announce the availability of the BitCurator Phase I white paper, From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions. The press release announcing the white paper can be read below and also on the SILS website at: http://sils.unc.edu/news/2013/bitcurator-white-paper
+The BitCurator team is pleased to announce the availability of the BitCurator Phase I white paper, [From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions](https://bitcurator.net/wp-content/uploads/sites/1099/2018/08/bitstreams-to-heritage.pdf). The press release announcing the white paper can be read below and also on the SILS website at: [http://sils.unc.edu/news/2013/bitcurator-white-paper](https://bitcurator.net/wp-content/uploads/sites/1099/2018/08/bitstreams-to-heritage.pdf)
 
-From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions
+[From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions](https://bitcurator.net/wp-content/uploads/sites/1099/2018/08/bitstreams-to-heritage.pdf)
 
 Out of the blue, an archivist gets a call from the husband of a famous scientist who has recently passed away. He wants to donate materials to the archives that can help people to understand and learn about her research. The archivist visits their home and is handed a cardboard box. Inside are not sheets of paper but a stack of floppy disks, CDs, Zip disks and a hard drive. What’s the archivist to do?
 
-Researchers at the School of Information and Library Science (SILS) at the University of North Carolina at Chapel Hill, and the Maryland Institute for Technology in the Humanities (MITH) at the University of Maryland are investigating methods and developing tools for these sorts of situations.
+Researchers at the [School of Information and Library Science (SILS)](http://sils.unc.edu/) at the University of North Carolina at Chapel Hill, and the [Maryland Institute for Technology in the Humanities (MITH)](http://mith.umd.edu/) at the University of Maryland are investigating methods and developing tools for these sorts of situations.
 
-A new white paper titled, “From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions” examines the application of digital forensics methods to materials in collecting institutions – particularly libraries, archives and museums. It is a product of the BitCurator project and is written by Drs. Christopher A. Lee, Frances Carroll McColl Term Professor and research associate, Kam Woods of SILS; Matthew Kirschenbaum, associate director of MITH; and SILS doctoral student Alexandra Chassanoff.
+A new white paper titled, “[From Bitstreams to Heritage: Putting Digital Forensics into Practice in Collecting Institutions](https://bitcurator.net/wp-content/uploads/sites/1099/2018/08/bitstreams-to-heritage.pdf)” examines the application of digital forensics methods to materials in collecting institutions – particularly libraries, archives and museums. It is a product of the BitCurator project and is written by **Drs. Christopher A. Lee**, Frances Carroll McColl Term Professor and research associate, **Kam Woods** of SILS; **Matthew Kirschenbaum**, associate director of MITH; and SILS doctoral student **Alexandra Chassanoff**.
 
 ”The landscape has changed quite dramatically in the past few years,” said Lee. “The white paper reflects a great deal of energy and progress around the work of extracting, securing and describing information that’s been stored on computer disks and drives.”
 
 The BitCurator project, funded by the Andrew W. Mellon Foundation, is “an effort to build, test and analyze systems and software for incorporating digital forensics methods into the workflows of a variety of collecting institutions.” Procedures and tools for acquiring and validating data from physical media are well established in the field of digital forensics. There is a rich and growing body of open source tools that can be used to process, manage and disseminate forensically acquired data. While the primary target for many of these tools and methods is the law enforcement community, there is great potential for connecting these two streams of activity in order to support the work of collecting institutions.
 
-BitCurator is developing and disseminating a dedicated open-source software environment that can be used to apply digital forensics methods to collections. The software and associated guidance documents are freely available on our Release page: https://github.com/BitCurator/bitcurator-distro/wiki/Releases
+BitCurator is developing and disseminating a dedicated open-source software environment that can be used to apply digital forensics methods to collections. The software and associated guidance documents are freely available on our Release page: [https://github.com/BitCurator/bitcurator-distro/wiki/Releases](https://github.com/BitCurator/bitcurator-distro/wiki/Releases)
 
 According to the white paper, “Forensic methods identify, capture and retain various forms of contextual information, which can be vital for users making meaningful use of digital materials.” It explains those processes, along with many associated challenges and opportunities
 
@@ -1189,27 +1201,28 @@ The white paper is now available at: [https://bitcurator.github.io/publications/
 ### Cal Lee on WREK Atanta’s “Lost in the Stacks” Radio Show and Podcast
 *(originally published November 26, 2013)*
 
-Listen to BitCurator PI Cal Lee address the need for digital preservation on WREK Atlanta’s “Lost in the Stacks” radio show and podcast, the “one-and-only research-library rock’n’roll radio show!” Cal addresses the long-term sustainability of digital media, various approaches to digital preservation, and the aims of the BitCurator project–all while surrounded by an eclectic radio mix of songs dealing with “Bad luck and trouble.”
+Listen to BitCurator PI Cal Lee address the need for digital preservation on WREK Atlanta’s “Lost in the Stacks” radio show and podcast, the “[one-and-only research-library rock’n’roll radio show!](http://lostinthestacks.libsyn.com/)” Cal addresses the long-term sustainability of digital media, various approaches to digital preservation, and the aims of the BitCurator project–all while surrounded by an eclectic radio mix of songs dealing with “Bad luck and trouble.”
 
-Listen here: http://lostinthestacks.libsyn.com/bit-rot  (Click on the “POD” button).
+Listen here: [http://lostinthestacks.libsyn.com/bit-rot](http://lostinthestacks.libsyn.com/bit-rot) (Click on the “POD” button).
 
 ### Announcing the BitCurator Webinar Series
 *(originally published November 1, 2013)*
 
-We are happy to announce the first in our BitCurator webinar series: An Introduction to the BitCurator Environment. This webinar will be the first in a monthly series of webinars addressing the use of Digital Forensics in the curation of born-digital materials. It will take place on Wednesday, November 20th from 10:00am – 11:00am EST and again from 2:oopm – 3:00pm EST. We will introduce participants to the basic functions of the BitCurator environment–from installation to generating forensics metadata reports. Specific topics covered will include:
+We are happy to announce the first in our BitCurator webinar series: *An Introduction to the BitCurator Environment*. This webinar will be the first in a monthly series of webinars addressing the use of Digital Forensics in the curation of born-digital materials. It will take place on **Wednesday, November 20th** from [10:00am – 11:00am EST](https://www.eventbrite.co.uk/event/9128031187) and again from [2:oopm – 3:00pm EST](https://www.eventbrite.co.uk/event/9132235763). We will introduce participants to the basic functions of the BitCurator environment–from installation to generating forensics metadata reports. Specific topics covered will include:
 
-Installing BitCurator as either a virtual machine or a stand-alone operating system
-Learning to navigate within the BitCurator environment (BitCurator is a modified version of Ubuntu Linux)
-Working with external media within BitCurator
-Creating disk images via Guymager
-Searching a disk image for personally identifiable information (PII)
-An introduction to DFXML (Digital Forensics XML)
-Generating the BitCurator reports
+* Installing BitCurator as either a virtual machine or a stand-alone operating system
+* Learning to navigate within the BitCurator environment (BitCurator is a modified version of Ubuntu Linux)
+* Working with external media within BitCurator
+* Creating disk images via Guymager
+* Searching a disk image for personally identifiable information (PII)
+* An introduction to DFXML (Digital Forensics XML)
+* Generating the BitCurator reports
+
 To attend this webinar, please register here in advance for the session you would like to attend by clicking on the appropriate link below.
 
-Session One beginning at 10:00am EST
+[Session One beginning at 10:00am EST](https://www.eventbrite.co.uk/event/9128031187)
 
-Session Two beginning at 2:00pm PST
+[Session Two beginning at 2:00pm PST](https://www.eventbrite.co.uk/event/9132235763)
 
 
 We are limiting each webinar to 30 participants, so we encourage you to register early.  If you have any questions about the event, please contact Porter Olsen at polsen at umd dot edu.
@@ -1221,173 +1234,167 @@ Announcing BitCurator version 0.4.0!
 
 BitCurator 0.4.0 includes significant improvements in the processing times required to analyze a forensics disk image. In addition, the BitCurator Reporting Tool interface has been updated to be more intuitive and now includes a “Run All” option that will generate DFXML outputs, annotate Bulk Extractor features, and create the BitCurator human and machine readable reports all as one action.
 
-We invite you to download the latest BitCurator release, either as a virtual machine or installable ISO image, from the Release page, where you can also find documentation and a link to our BitCurator users group.
+We invite you to download the latest BitCurator release, either as a virtual machine or installable ISO image, from the [Release page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases), where you can also find documentation and a link to our BitCurator users group.
 
 BitCurator 0.4.0 Change Log:
 
-Bitcurator Reporting Tool and GUI now includes “Run All” tab. This provides a link to launch BEViewer, and a single form in which fiwalk, the annotation tool, and the reporting tools can be run.
-Significant performance improvements in Bulk Extractor, fiwalk, and the BitCurator reports generation.
-Excel report generation now handled by XlsxWriter 0.4.3; major performance improvements.
-Bulk extractor updated to 1.4.1. Bug fixes and UI enhancements in BEViewer.
-Sleuthkit updated to 4.1.2.
-BitCurator report configuration (install location: /etc/bitcurator/bc-report-config.txt) updated to automatically report on system files. Various bug fixes.
+* Bitcurator Reporting Tool and GUI now includes “Run All” tab. This provides a link to launch BEViewer, and a single form in which fiwalk, the annotation tool, and the reporting tools can be run.
+* Significant performance improvements in Bulk Extractor, fiwalk, and the BitCurator reports generation.
+* Excel report generation now handled by XlsxWriter 0.4.3; major performance improvements.
+* Bulk extractor updated to 1.4.1. Bug fixes and UI enhancements in BEViewer.
+* Sleuthkit updated to 4.1.2.
+* BitCurator report configuration (install location: /etc/bitcurator/bc-report-config.txt) updated to automatically report on system files. Various bug fixes.
 
 ### BitCurator Visits SAA 2013
 *(originally published August 19, 2013)*
 
-Last week, members of the BitCurator team visited New Orleans for the 2013 Society of American Archivists (SAA) Joint Annual Meeting. On Tuesday, August 13, we presented a poster at the 7th Annual SAA Research Forum on how the BitCurator environment can support archivists’ preservation goals in institutions.
+Last week, members of the BitCurator team visited New Orleans for the [2013 Society of American Archivists (SAA) Joint Annual Meeting](http://www2.archivists.org/2013#.UhJcB5I1CSo). On Tuesday, August 13, we presented a poster at the [7th Annual SAA Research Forum](http://www2.archivists.org/proceedings/research-forum/2013#.UhJbxZI1CSo) on how the BitCurator environment can support archivists’ preservation goals in institutions.
 
-In our poster, we described four preservation scenarios during the creation and ingest of a disk image into an archival repository. We then showed how the output generated by BitCurator tools during each scenario can be captured and stored as PREMIS-encoded preservation events.
+[In our poster](https://bitcurator.github.io/presentations/SAA-researchforum-chassanoffwoodslee.pdf), we described four preservation scenarios during the creation and ingest of a disk image into an archival repository. We then showed how the output generated by BitCurator tools during each scenario can be captured and stored as PREMIS-encoded preservation events.
 
-Event 1: Image Capture
-Definition: A forensic disk image is extracted from the original media source and created.
-Tool: Guymager
-Metadata: Acquisition time; duration of capture; manufacturing device & serial number; user who performed acquisition; cryptographic hash values
+**Event 1: Image Capture**
+*Definition:* A forensic disk image is extracted from the original media source and created.
+*Tool:* Guymager
+*Metadata:* Acquisition time; duration of capture; manufacturing device & serial number; user who performed acquisition; cryptographic hash values
 
-Event 2: File System Analysis
-Definition: A set of file-objects corresponding to all of the files and directories identified on a disk image is analyzed and reported.
-Tool: fiwalk
-Metadata: Time of analysis; duration of analysis; user who performed file system analysis; file system partitions; file system volumes
+**Event 2: File System Analysis**
+*Definition:* A set of file-objects corresponding to all of the files and directories identified on a disk image is analyzed and reported.
+*Tool:* fiwalk
+*Metadata:* Time of analysis; duration of analysis; user who performed file system analysis; file system partitions; file system volumes
 
-Event 3: Feature Analysis
-Definition: Describes forensic analysis of the raw bitstream, producing reports on specific features of interest (such as personally identifying or other sensitive information).
-Tool: bulk extractor
-Metadata: Time of analysis; execution environment; number of reports produced;
+**Event 3: Feature Analysis**
+*Definition:* Describes forensic analysis of the raw bitstream, producing reports on specific features of interest (such as personally identifying or other sensitive information).
+*Tool:* bulk extractor
+*Metadata:* Time of analysis; execution environment; number of reports produced;
 
-Event 4: Redaction
-Definition: Used to overwrite specific patterns within the disk image according to a user-supplied rule-set.
-Tool: iRedact.py
-Metadata: Time of redaction; environment details; user performing redaction; name of new redacted image
+**Event 4: Redaction**
+*Definition:* Used to overwrite specific patterns within the disk image according to a user-supplied rule-set.
+*Tool:* iRedact.py
+*Metadata:* Time of redaction; environment details; user performing redaction; name of new redacted image
 
 ### Building a Digital Curation Workstation with BitCurator (update)
 *(originally published August 2, 2013)*
 
 *Original post by Porter Olsen. Minor edits in July 2018 to resolve broken links and media.*
 
-Last year I wrote a post for the MITH blog describing how to build a digital curation workstation using readily available hardware (at least for the present) and the BitCurator suite of digital forensics tools. Matt Kirschenbaum and I revisited that topic a few weeks ago for a poster we presented at the Digital Humanities 2013 conference. We got a number of requests asking for the digital version of the poster, so I’ve revised it slightly and uploaded the poser in blog form below.
+Last year I wrote a post for the MITH blog describing [how to build a digital curation workstation](http://mith.umd.edu/digital-curation-workstation/) using readily available hardware (at least for the present) and the BitCurator suite of digital forensics tools. Matt Kirschenbaum and I revisited that topic a few weeks ago for a poster we presented at the Digital Humanities 2013 conference. We got a number of requests asking for the digital version of the poster, so I’ve revised it slightly and uploaded the poser in blog form below.
 
 The most significant update from my orginal post in 2012 is the case study involving the transcription work done by Niel Fraistat on Percy Shelley’s Prometheus Unbound manuscripts–completed in 1989 and saved on 5.25″ floppy disks. Otherwise much of the information remains the same, though there is significantly more detail regarding the BitCurator suite of tools. As always, feel free to leave questions or comments in the Comments section below.
 
-Introduction
+**Introduction**
 
-This post builds on the recent report from the Online Computer Library Center (OCLC) titled “You’ve Got to Walk Before You Can Run: First Steps for Managing Born-Digital Content Received on Physical Media” (Erway, 2012).  The OCLC report identifies eleven specific steps archivist can follow to safely and effectively process born-digital content. This post considers the hardware needs of archivists and scholars as they look to implement the OCLC’s recommendations by offering a model born-digital curation workstation using readily available PC hardware and a suite of free and open source tools being developed and extended by the BitCurator project. We also demonstrate why such a workstation would be a valuable asset for a working digital humanities center through a case study involving the Shelley-Godwin Archive.
+This post builds on the recent report from the Online Computer Library Center (OCLC) titled [“You’ve Got to Walk Before You Can Run: First Steps for Managing Born-Digital Content Received on Physical Media”](http://www.oclc.org/research/publications/library/2012/2012-06r.html) (Erway, 2012).  The OCLC report identifies eleven specific steps archivist can follow to safely and effectively process born-digital content. This post considers the hardware needs of archivists and scholars as they look to implement the OCLC’s recommendations by offering a model born-digital curation workstation using readily available PC hardware and a suite of free and open source tools being developed and extended by the BitCurator project. We also demonstrate why such a workstation would be a valuable asset for a working digital humanities center through a case study involving the Shelley-Godwin Archive.
 
-About BitCurator
+**About BitCurator**
 
 BitCurator is a research and open source software development project designed to bring digital forensics tools and techniques to collecting institutions.
 
 The BitCurator Environment is a Linux based suite of digital forensics tools that facilitate the creation of forensic disk images, file analysis, meta data extraction, and the identification of personally identifiable information (PII). BitCurator can be installed as either a stand-alone Linux operating system or as a virtual machine within a Windows or OS X host.
 
-“Standard” Hardware
+**“Standard” Hardware**
 
 While there exist custom hardware solutions for preserving digital content, these options can be cost prohibitive, especially for a smaller DH center. For example, the Forensic Recovery of Evidence Device, or FRED, from Digital Intelligence can cost several thousand dollars. By contrast, the workstation we demonstrate here is designed to cost just over a thousand dollars, including the media access devices described in the next section.
 
 The workstation will begin with a standard Windows or OS X based PC. While the exact technical specifications can vary, we offer the following recommendations as the minimum specifications for a digital curation workstation. More powerful hardware will, of course, result in less processing time, but a computer system with the specifications below should be available for roughly $500 from any number of retailers.
 
-A multi-core CPU such as the Intel i5 series or AMD Fusion line of CPUs. The digital forensics tools in the BitCurator environment are mulit-threaded, so they will take advantage of multiple CPU cores and thus speed up processing times. Older multi-core CPUs such as the Intel Core2 series can also function well with BitCurator. If running BitCurator as a virtual machine, make sure your CPU has support for hardware virtualization: VT-x on Intel CPUs, and AMD-V on AMD.
+**A multi-core CPU such as the Intel i5 series or AMD Fusion line of CPUs.** The digital forensics tools in the BitCurator environment are mulit-threaded, so they will take advantage of multiple CPU cores and thus speed up processing times. Older multi-core CPUs such as the Intel Core2 series can also function well with BitCurator. If running BitCurator as a virtual machine, make sure your CPU has support for hardware virtualization: VT-x on Intel CPUs, and AMD-V on AMD.
 
-Four to Eight Gigabytes of RAM. We recommend at least 4 gigabytes of RAM. BitCurator can run with less, but performance will suffer. 8 gigabytes of RAM is recommended if you plan to run BitCurator as a virtual machine within a host operating system.
+**Four to Eight Gigabytes of RAM. We recommend at least 4 gigabytes of RAM.** BitCurator can run with less, but performance will suffer. 8 gigabytes of RAM is recommended if you plan to run BitCurator as a virtual machine within a host operating system.
 
-Hard drive storage based on need. You will need at least 20 gigabytes of storage space to install BitCurator, beyond that you will want to plan for storage needs based on the media you will be accessioning.
+**Hard drive storage based on need.** You will need at least 20 gigabytes of storage space to install BitCurator, beyond that you will want to plan for storage needs based on the media you will be accessioning.
 
-Memory card reader and Blu-ray player. Choose a memory card reader with support for as many types of memory cards as possible. The Blu-ray player should be backwards compatible with burned DVDs and CD-ROMs.
+**Memory card reader and Blu-ray player.** Choose a [memory card reader](http://en.wikipedia.org/wiki/Memory_card_reader) with support for as many types of memory cards as possible. The Blu-ray player should be backwards compatible with burned DVDs and CD-ROMs.
 
-Digital Curation Hardware
+**Digital Curation Hardware**
 
 The hardware described below and shown in the image of our digital curation workstation allows the user to access a wide array of digital media. This is by no means an exhaustive list of media access devices, but it should be enough to handle most forms of legacy media and offer a starting point for those who may need more specialized hardware. (Pricing details are included to show the overall cost of the a digital curation workstation.)
 
-USB 3.5” Floppy Disk Drive
+**USB 3.5” Floppy Disk Drive**
 
 Still available new from online retailers, look for a drive that can read both 1.44 MB(HD) and 800 KB (DD) 3.5” diskettes. Most drives support HD diskettes in both PC and Mac format, but only support PC formatted DD diskettes. Units are still available for around $20.
 
-External USB 250MB Zip Drive
+**External USB 250MB Zip Drive**
 
 These units are available both new and used. We recommend the 250MB model as it is backwards compatible with the 100MB Zip disks. New units retail for around $200 and used units for around $50.
 
-USB 250 MB Zip Drive and 3.5" Floppy Disk Drive
-USB 250 MB Zip Drive and 3.5″ Floppy Disk Drive
-Device Side Data’s FC5025
+![USB 250 MB Zip Drive and 3.5" Floppy Disk Drive](https://bitcurator.github.io/images/posts/zip-and-floppy-300x225.jpg) *USB 250 MB Zip Drive and 3.5" Floppy Disk Drive*
+
+**Device Side Data’s FC5025**
 
 The FC5025 is a controller card for 5.25” floppy disk drives that can be used as an internal or external—as seen here—interface. Device Side Data charges $55.25 per controller.
 
-FC5025 5.25" Floppy Drive Controller
-FC5025 5.25″ Floppy Drive Controller
-5.25” Floppy Disk Drive
+![FC5025 5.25" Floppy Drive Controller](https://bitcurator.github.io/images/posts/fc5025-768x1024-225x300.jpg) *FC5025 5.25″ Floppy Drive Controller*
+
+**5.25” Floppy Disk Drive**
 
 These units are no longer available new, but can still be purchased off of eBay for about $50. Drives can be mounted in a PC case or used as external devices as shown in the digital curation workstation example below.
 
 Because 5.25″ floppy drives are no longer manufactured, we recommend that you purchase a number of back up drives based on your need. We also recommend a disk drive cleaning kit.
 
-Backup your capacity to backup
-Backup your capacity to backup
-Wiebetech UltraDock Hardware Write Protector
+![Backup your capacity to backup](https://bitcurator.github.io/images/posts/cleaning-kit-225x300.jpg) *Backup your capacity to backup*
+
+**Wiebetech UltraDock Hardware Write Protector**
 
 This unit serves as both an interface with IDE and Serial ATA  type hard disk drives and as a write protector. Because it is common for the OS to overwrite metadata on a hard drive, write protection ensures that no interactions of the archivist or researcher affects the integrity of the original media. Wiebetech charges $250 for the UltraDock Hardware Write Protector.
 
-WiebeTech Forensic ComboDock Writer Blocker
-WiebeTech Forensic ComboDock Writer Blocker
-How Things Come Together
+![WiebeTech Forensic ComboDock Writer Blocker](https://bitcurator.github.io/images/posts/weibetech-connected-225x300.jpg) *WiebeTech Forensic ComboDock Writer Blocker*
 
-Digital Curation Workstation
-Digital Curation Workstation
-BitCurator Digital Forensics Tools
+**How Things Come Together**
+
+![Digital Curation Workstation](https://bitcurator.github.io/images/posts/DCW-Annotated-300x196.jpg) *Digital Curation Workstation*
+
+**BitCurator Digital Forensics Tools**
 
 The BitCurator Environment includes 3rd-party  and custom tools for disk imaging, data triage, PII discovery, filesystem analytics and reporting, and metadata export. It incorporates scripted actions that can be run in the GUI against live filesystems for file analysis prior to (or in lieu of) imaging. Additionally, it includes unique software for producing human-readable reports from forensic tool output.
 
 BitCurator currently includes the following tools:
 
-Guymager: A GUI-based disk imaging program for capturing disk images in raw, E01, and AFF formats.
+*Guymager*: A GUI-based disk imaging program for capturing disk images in raw, E01, and AFF formats.
 
-Bulk Extractor and Bulk Extractor Viewer: A stream-based forensics tool for extracting features of interest from disk images (including but not limited to private and individually identifying information) and associated GUI front-end.
+*Bulk Extractor* and *Bulk Extractor Viewer*: A stream-based forensics tool for extracting features of interest from disk images (including but not limited to private and individually identifying information) and associated GUI front-end.
 
-Fiwalk: A tool for generating Digital Forensics XML output describing filesystem hierarchies contained on disk images.
+*Fiwalk*: A tool for generating Digital Forensics XML output describing filesystem hierarchies contained on disk images.
 
-The Sleuth Kit: Basis Technology’s open source digital forensics framework.
+*The Sleuth Kit*: Basis Technology’s open source digital forensics framework.
 
-BitCurator Reporting Tools: Custom tools developed by the BitCurator team for generating metadata reports useful for archivists and digital-curation practitioners.
+*BitCurator Reporting Tools*: Custom tools developed by the BitCurator team for generating metadata reports useful for archivists and digital-curation practitioners.
 
-Sdhash: A “fuzzy hashing” file similarity finding tool.
+*Sdhash*: A “fuzzy hashing” file similarity finding tool.
 
-Digital Forensics plug-ins for Ubuntu’s GUI file browser (Nautilus) that can identify file information, generate check sums, read files in hexadecimal format, and perform other file analysis tasks.
+*Digital Forensics plug-ins* for Ubuntu’s GUI file browser (Nautilus) that can identify file information, generate check sums, read files in hexadecimal format, and perform other file analysis tasks.
 
-Case Study: Recovering the Shelley-Godwin Archive
+**Case Study: Recovering the Shelley-Godwin Archive**
 
-The half-life of bits: The evolution of Niel Fraistat's transcription of Shelley's Prometheus Unbound manuscripts.
-The half-life of bits: The evolution of Niel Fraistat’s transcription of Shelley’s Prometheus Unbound manuscripts.
+![The half-life of bits: The evolution of Niel Fraistat's transcription of Shelley's Prometheus Unbound manuscripts.](https://bitcurator.github.io/images/posts/living-bits-shelley-transcripts-300x73.jpg) *The half-life of bits: The evolution of Niel Fraistat’s transcription of Shelley’s Prometheus Unbound manuscripts.*
+
 In 1989, Neil Fraistat worked with the Bodleian Library in Oxford to produce a transcript of Percy Shelley’s Prometheus Unbound manuscripts. These handwritten manuscripts included notations, line-throughs, revisions, line counts and other edits that made them challenging to read. Fraistat transcribed each page using WordPerfect 4.2 and then created a photo ready print of each transcribed page. The subsequent publication included a facsimile of the original page next to Fraistat’s transcribed version, as seen in the image above.  Completed on an IBM PC of the era, Fraistat’s work was saved on 5.25” floppy disks.
 
 In 2012, MITH began working on the Shelley-Godwin archive, using Fraistat’s publication of Shelley’s manuscripts as a model for the digital implementation using Shared Canvas. However, the original transcription work–that had also been vetted by the Bodleian–now existed on essentially unreadable media, and in a format no longer supported by contemporary word processors. By using the FC5025 seen above and a used 5.25” floppy disk drive, we were able to recover Fraistat’s original transcriptions and preserve Fraistat’s work by creating disk images of the 5.25: floppy disks. We then used Open Office to convert the files to a format readable by a present-day word processor. The now-readable files were then passed to the editors for TEI encoding, saving hours of repeat labor.
 
 This case study not only shows the utility of a digital curation workstation, but also asks us to rethink the history of digital humanities. We argue that Fraistat’s early work of thinking through representing analog, handwritten text in a digital medium represents an early form of DH scholarship. At stake in the archival work demonstrated here is not only the preservation of born-digital objects generally, but the ability to examine the history of our own disciplinary practices.
 
-Conclusions
+**Conclusions**
 
 It is our argument that for a relatively small investment—roughly a thousand dollars—a digital humanities center can avail itself of the tools required to preserve, archive, and investigate a wide variety of born-digital materials. The hardware interfaces described in this post work in conjunction with the BitCurator Environment’s suite of digital forensics tools to achieve those ends and facilitate the recommendations of the OCLC report cited in the introduction.
 
 The Shelley-Godwin Archive case study demonstrates the need for these tools—both hardware and software—in the DH community itself. If Fraistat’s original transcription of the Shelley manuscripts are an early form of DH, as we contend, then we see that what’s at stake here is not simply the concern of archivists and libraries, but the history and legacy of our own practices. The disciplinary sensibilities that inform the digital humanities make the DH center a logical location for these discovery and preservation tools. Further, the capacities afforded by the tools described in this poster will further demonstrate the value of a DH center to host institutions.
 
-Acknowledgements
+**Acknowledgements**
 
 The BitCurator project is funded through the Andrew W. Mellon Foundation. The principle investigator is Christopher Lee and the co-principle investigator is Matthew Kirschenbaum.
 
 Erway, Ricky. “You’ve Got to Walk Before You Can Run: First Steps for Managing Born-Digital Content Received on Physical Media.” OCLC 2013.
 
-Reside, Doug. “Digital Archeology: Recovering Your Digital History.” NYPL 2012.
+Reside, Doug. “[Digital Archeology: Recovering Your Digital History.](http://www.nypl.org/blog/2012/07/23/digital-archaeology-recovering-your-digital-history)” NYPL 2012.
 
 ### Marty Gengenbach selected for National Digital Stewardship Alliance Innovation Award
 *(originally published June 20, 2013)*
 
-Marty Gengenbach has been selected as one of four recipients of the National Digital
-Stewardship Alliance Innovation Working Group Innovation Awards for work he
-completed while a student at UNC SILS and in support of the BitCurator project.
+Marty Gengenbach has been selected as one of four recipients of the National Digital Stewardship Alliance Innovation Working Group Innovation Awards for work he completed while a student at UNC SILS and in support of the BitCurator project.
 
-Selected in the category of “Future Steward,” Gengenbach is recognized for
-the Gates Archive and his “work documenting digital forensics tools and
-workflows, especially his paper, “The Way We Do it Here: Mapping Digital
-Forensics Workflows in Collecting Institutions” and his work on the
-DFXML tag library.
+Selected in the category of “Future Steward,” Gengenbach is recognized for the Gates Archive and his “work documenting digital forensics tools and workflows,” especially his paper, “[The Way We Do it Here: Mapping Digital Forensics Workflows in Collecting Institutions](http://digitalcurationexchange.org/system/files/gengenbach-forensic-workflows-2012.pdf)” and his work on the [DFXML tag library](http://www.bitcurator.net/2013/02/06/dfxml-tag-library/).
 
-http://sils.unc.edu/news/2013/martin-gengenbach-innovation-award
+[http://sils.unc.edu/news/2013/martin-gengenbach-innovation-award](http://sils.unc.edu/news/2013/martin-gengenbach-innovation-award)
 
 ### 8th International Workshop on Systematic Approaches to Digital Forensics Engineering – Call For Papers
 *(originally published June 14, 2013)*
@@ -1405,11 +1412,12 @@ right before the HTCIA (High Technology Crime Investigation Association)
 Law Enforcement Cyber Security Training Conference
 November 25-29, 2013
 
-Important Date:
-Paper Due Date: Jun 24, 2013 (anywhere in the world)
-Acceptance Notification Date: August 15, 2013
-Final Paper: October 1, 2013
-Conference Date: November 21-22, 2013
+**Important Date:**
+
+Paper Due Date: Jun 24, 2013 (anywhere in the world)  
+Acceptance Notification Date: August 15, 2013  
+Final Paper: October 1, 2013  
+Conference Date: November 21-22, 2013  
 
 We invite you to SADFE-2013, the eighth international conference on Systematic Approaches to Digital Forensic Engineering to be held in Hong Kong, China November 21-22, 2013.
 
@@ -1421,7 +1429,7 @@ Submissions: Submissions are made via Reg-Site
 
 A Best Paper Award will be made for the final papers.
 
-Topics:
+**Topics:**
 
 We welcome previously unpublished papers on digital forensics and preservation as to civil, criminal and national security investigations for use within a court of law, the execution of national policy or to aid in understanding the past and digital knowledge in general.
 
@@ -1429,62 +1437,61 @@ We discuss digital forensic principles in new areas of the information society. 
 
 Potential topics to be addressed by submissions include, but are not limited to:
 
-Digital Data and Evidence Management: advanced digital evidence discovery, collection, management, storage and preservation
-Identification, authentication and collection of digital evidence
-Extraction and management of forensic data/metadata
-Identification and redaction of personally identifying information and other forms of sensitive information
-Post-acquisition handling of evidence and the preservation of data integrity and admissibility
-Evidence and digital memory preservation, curation and storage
-Architectures and processes (including network processes) that comply with forensic requirements
-Managing geographically, politically and/or jurisdictionally dispersed data artifacts
-Data, digital knowledge, and web mining systems for identification and authentication of relevant data
-Botnet forensics
+Digital Data and Evidence Management: advanced digital evidence discovery, collection, management, storage and preservation  
+Identification, authentication and collection of digital evidence  
+Extraction and management of forensic data/metadata  
+Identification and redaction of personally identifying information and other forms of sensitive information  
+Post-acquisition handling of evidence and the preservation of data integrity and admissibility  
+Evidence and digital memory preservation, curation and storage  
+Architectures and processes (including network processes) that comply with forensic requirements  
+Managing geographically, politically and/or jurisdictionally dispersed data artifacts  
+Data, digital knowledge, and web mining systems for identification and authentication of relevant data  
+Botnet forensics  
 
-Digital Evidence, Data Integrity and Analytics: advanced digital evidence and digitized data analysis, correlation, and presentation
-Advanced search, analysis, and presentation of digital evidence
-Cybercrime scenario analysis and reconstruction technologies
-Legal case construction and digital evidence support
-Cyber-crime strategy analysis and modeling
-Combining digital and non-digital evidence
-Supporting both qualitative and statistical evidence
-Computational systems and computational forensic analysis
-Digital evidence in the face of encryption
-Forensic-support technologies: forensic-enabled and proactive monitoring/response
+Digital Evidence, Data Integrity and Analytics: advanced digital evidence and digitized data analysis, correlation, and presentation  
+Advanced search, analysis, and presentation of digital evidence  
+Cybercrime scenario analysis and reconstruction technologies  
+Legal case construction and digital evidence support  
+Cyber-crime strategy analysis and modeling  
+Combining digital and non-digital evidence  
+Supporting both qualitative and statistical evidence  
+Computational systems and computational forensic analysis  
+Digital evidence in the face of encryption  
+Forensic-support technologies: forensic-enabled and proactive monitoring/response  
 
-Forensics of embedded or non-traditional devices (e.g. digicams, cell phones, SCADA, obsolete storage media)
-Forensic tool validation: methodologies and principles
-Legal and technical collaboration
-Digital forensics surveillance technology and procedures
-“Honeypot” and other target systems for data collection and monitoring
-Quantitative attack impact assessment
-Comprehensive fault analysis, including, but not limited to, DFE study of broad realistic system and digital knowledge failures, criminal and non-criminal, with comprehensive DFE (malicious/non-malicious) analysis in theory, methods, and practices.
+Forensics of embedded or non-traditional devices (e.g. digicams, cell phones, SCADA, obsolete storage media)  
+Forensic tool validation: methodologies and principles  
+Legal and technical collaboration  
+Digital forensics surveillance technology and procedures  
+“Honeypot” and other target systems for data collection and monitoring  
+Quantitative attack impact assessment  
+Comprehensive fault analysis, including, but not limited to, DFE study of broad realistic system and digital knowledge failures, criminal and non-criminal, with comprehensive DFE (malicious/non-malicious) analysis in theory, methods, and practices.  
 
-Forensic and digital data integrity issues for digital preservation and recovery, including
-Technological challenges
-Legal and ethical challenges
-Economic challenges
-Institutional arrangements and workflows
-Political challenges and
-Cultural and professional challenges
+Forensic and digital data integrity issues for digital preservation and recovery, including  
+Technological challenges  
+Legal and ethical challenges  
+Economic challenges  
+Institutional arrangements and workflows  
+Political challenges and  
+Cultural and professional challenges  
 
-Scientific Principle-Based Digital Forensic Processes: systematic engineering processes supporting digital evidence management which are sound on scientific, technical and legal grounds
-Legal/technical aspects of admissibility and evidence tests
-Examination environments for digital data
-Courtroom expert witness and case presentation
-Case studies illustrating privacy, legal and legislative issues
-Forensic tool validation: legal implications and issues
-Legal and privacy implications for digital and computational forensic analysis
-Handling increasing volumes of digital discovery
+Scientific Principle-Based Digital Forensic Processes: systematic engineering processes supporting digital evidence management which are sound on scientific, technical and legal grounds  
+Legal/technical aspects of admissibility and evidence tests  
+Examination environments for digital data  
+Courtroom expert witness and case presentation  
+Case studies illustrating privacy, legal and legislative issues  
+Forensic tool validation: legal implications and issues  
+Legal and privacy implications for digital and computational forensic analysis  
+Handling increasing volumes of digital discovery  
 
-Legal, Ethical and Technical Challenges
-The forensic, policy and ethical implications of
-n The Internet of Things, The “Smart City,” “Big Data” or Cloud systems
-New Evidence Decisions, e.g., United States v. Jones, _ U.S._ (2012) and United States v. Kotterman, _ F.3d _ (9th Cir. 2013)
-Computational Forensics and Validation
-Transnational Investigations/Case Integration under the Convention on Cybercrime of the Council of Europe
-Issues in Forensic Authentication and Validation.
+Legal, Ethical and Technical Challenges  
+The forensic, policy and ethical implications of The Internet of Things, The “Smart City,” “Big Data” or Cloud systems  
+New Evidence Decisions, e.g., United States v. Jones, _ U.S._ (2012) and United States v. Kotterman, _ F.3d _ (9th Cir. 2013)  
+Computational Forensics and Validation  
+Transnational Investigations/Case Integration under the Convention on Cybercrime of the Council of Europe  
+Issues in Forensic Authentication and Validation.  
 
-Submission:
+**Submission:**
 
 SADFE-2013 follows standard IEEE submission standards with full papers to be submitted by the final due date.
 
@@ -1496,7 +1503,7 @@ IEEE Policy on Double Submission
 
 PLEASE NOTE: To be published in the Conference Proceedings an author of an accepted paper is required to register for the conference. Non-refundable registration fees must be paid prior to uploading the final IEEE formatted, publication-ready version of the paper. For authors with multiple accepted papers, one registration is valid for up to 3 papers. Accepted and presented papers will be published in the 2013 Conference Proceedings.
 
-Paper submissions:
+**Paper submissions:**
 
 During the initial paper submission process via REG-SITE, it is the authors’ responsibility to ensure that the author list and the paper title of the submitted pdf file is an exact match to the author list and paper title on the REG-SITE registration page. Registration must include all co-authors, not just the submitting author. Failure to comply with this rule might result in your paper being withdrawn from the review process.
 
@@ -1506,79 +1513,80 @@ Standard IEEE conference templates for for Microsoft Word US letter is here: US 
 
 Only PDF files will be accepted for the review process, and all submissions must be done through REG-SITE.
 
-Steering Committee:
+**Steering Committee:**
 
-Deborah Frincke, Co-Chair (Department of Defense)
-Ming-Yuh Huang, Co-Chair (Northwest Security Institute)
-Michael Losavio (University of Louisville)
-Alec Yasinsac (University of South Alabama)
-Robert F. Erbacher (Army Research Laboratory)
-Wenke Lee (George Institute of Technology)
-Barbara Endicott-Popovsky (University of Washington)
-Roy Campbell (University of Illinois, Urbana/Champaign)
-Yong Guan (Iowa State University)
+Deborah Frincke, Co-Chair (Department of Defense)  
+Ming-Yuh Huang, Co-Chair (Northwest Security Institute)  
+Michael Losavio (University of Louisville)  
+Alec Yasinsac (University of South Alabama)  
+Robert F. Erbacher (Army Research Laboratory)  
+Wenke Lee (George Institute of Technology)  
+Barbara Endicott-Popovsky (University of Washington)  
+Roy Campbell (University of Illinois, Urbana/Champaign)  
+Yong Guan (Iowa State University)  
 
-Organizing Committee:
-General Chair: K.P. Chow, Hong Kong University
-Program Committee Co-Chairs: Christopher (Cal) Lee, University of North Carolina
-Adel Elmaghraby, University of Louisville
-Submission Chair: Luciana Duranti, University of British Columbia
+**Organizing Committee:**  
 
-Program Committee:
+General Chair: K.P. Chow, Hong Kong University  
+Program Committee Co-Chairs: Christopher (Cal) Lee, University of North Carolina  
+Adel Elmaghraby, University of Louisville  
+Submission Chair: Luciana Duranti, University of British Columbia  
 
-Sudhir Aggarwal Florida State University
-Galina Borisevich Perm State University
-Long Chen Chongqing University of Posts and Telecommunications
-K.P. Chow University of Hong Kong
-David Dampier Mississippi State University
-Hervé Debar France Telecom R&D
-Barbara Endicott-Popovsky University of Washington
-Robert Erbacher Northwest Security Institute
-Xinwen Fu UMass Lowell
-Simson Garfinkel Naval Postgraduate School
-Brad Glisson University of Glasgow
-Yong Guan Iowa State University
-Barbara Guttman National Institute for Standards and Technology (USA)
-Brian Hay University of Alaska, Fairbanks
-Jeremy John British Library
-Ping Ji John Jay College Of Criminal Justice
-Yu-Li Li Ministry of Justice Investigation Bureau, Taiwan
-Pinxin Liu Renmin University of China Law School
-Michael Losavio University of Louisville
-Nasir Memon Polytechnic Institute of NYU
-Mariofanna Milanova University of Arkansas at Little Rock
-Kara Nance University of Alaska, Fairbanks
-Ming Ouyang University of Louisville
-Gilbert Peterson Air Force Institute of Technology
-Slim Rekhis University of Carthage
-Golden Richard University of New Orleans
-Corinne Rogers University of British Columbia
-Ahmed Salem Hood College
-Clay Shields Georgetown University
-Vrizlynn Thing Institute for Infocomm Research, Singapore
-Sean Thorp Faculty of Engineering and Computing at University of Technology , Jamaica
-William(Bill) Underwood Georgia Tech
-Wietse Venema IBM Research
-Xinyuan(Frank) Wang George Mason University
-Kam Woods University of North Carolina
-Yang Xiang Deakin University, Australia
-Fei Xu Institute of Information Engineering, Chinese Academy of Sciences
-Alec Yasinsac University of South Alabama
-SM Yiu Hong Kong University
-Wei Yu Towson University
-Nan Zhang George Washington University
+**Program Committee:**
 
-Contact Information:
-Michael Losavio, University of Louisville,
-michael.losavio@louisville.edu
-+1 502 852 3509
+Sudhir Aggarwal Florida State University  
+Galina Borisevich Perm State University  
+Long Chen Chongqing University of Posts and Telecommunications  
+K.P. Chow University of Hong Kong  
+David Dampier Mississippi State University  
+Hervé Debar France Telecom R&D  
+Barbara Endicott-Popovsky University of Washington  
+Robert Erbacher Northwest Security Institute  
+Xinwen Fu UMass Lowell  
+Simson Garfinkel Naval Postgraduate School  
+Brad Glisson University of Glasgow  
+Yong Guan Iowa State University  
+Barbara Guttman National Institute for Standards and Technology (USA)  
+Brian Hay University of Alaska, Fairbanks  
+Jeremy John British Library  
+Ping Ji John Jay College Of Criminal Justice  
+Yu-Li Li Ministry of Justice Investigation Bureau, Taiwan  
+Pinxin Liu Renmin University of China Law School  
+Michael Losavio University of Louisville  
+Nasir Memon Polytechnic Institute of NYU  
+Mariofanna Milanova University of Arkansas at Little Rock  
+Kara Nance University of Alaska, Fairbanks  
+Ming Ouyang University of Louisville  
+Gilbert Peterson Air Force Institute of Technology  
+Slim Rekhis University of Carthage  
+Golden Richard University of New Orleans  
+Corinne Rogers University of British Columbia  
+Ahmed Salem Hood College  
+Clay Shields Georgetown University  
+Vrizlynn Thing Institute for Infocomm Research, Singapore  
+Sean Thorp Faculty of Engineering and Computing at University of Technology , Jamaica  
+William(Bill) Underwood Georgia Tech  
+Wietse Venema IBM Research  
+Xinyuan(Frank) Wang George Mason University  
+Kam Woods University of North Carolina  
+Yang Xiang Deakin University, Australia  
+Fei Xu Institute of Information Engineering, Chinese Academy of Sciences  
+Alec Yasinsac University of South Alabama  
+SM Yiu Hong Kong University  
+Wei Yu Towson University  
+Nan Zhang George Washington University  
+
+Contact Information:  
+Michael Losavio, University of Louisville,  
+michael.losavio@louisville.edu  
++1 502 852 3509  
 
 ### Digital Forensics for Archivists – June 24-25, 2013
 *(originally published June 4, 2013)*
 
 Cal Lee and Kam Woods (Principal Investigator and Technical Lead for the BitCurator Project) will be offering the new two-day version of the Digital Forensics for Archivists class in Ann Arbor, Michigan on June 24-25, 2013.
 
-http://saa.archivists.org/events/digital-forensics-for-archivists-1386/415/
+[http://saa.archivists.org/events/digital-forensics-for-archivists-1386/415/](http://saa.archivists.org/events/digital-forensics-for-archivists-1386/415/)
 
 This is part of the Digital Archives Specialist (DAS) curriculum for the Society of American Archivists. Learn about the fundamentals of digital forensics, application to archival workflows, and the latest capabilities of the BitCurator environment.
 
@@ -1593,10 +1601,10 @@ If you answered “yes” to any of the above, then we have an event for you!
 
 The Open Planets Foundation and the University of Chapel Hill’s School of Library and Information Science proudly presents:
 
-The OPF Hackathon at UNC Chapel Hill:
-Tackling Real-World Collection Challenges with Digital Forensics Tools and Methods
-Monday, June 3rd-Wednesday, June 5th
-Registration cost: $150 (REDUCED!)
+**The OPF Hackathon at UNC Chapel Hill:**  
+**Tackling Real-World Collection Challenges with Digital Forensics Tools and Methods**  
+**Monday, June 3rd-Wednesday, June 5th**  
+Registration cost: $150 (REDUCED!)  
 * includes 3 lunches and 2 dinners
 
 Come join world renowned digital preservation experts, collection managers, and coders as we collectively hack through digital preservation problems using a variety of digital forensics methods and approaches.
@@ -1605,20 +1613,20 @@ Our expert facilitators will be available to provide hands on guidance.    We wi
 
 This is the first OPF Hackathon taking place in the United States and we are thrilled to host you as we hack out solutions to common problems in born-digital collections.
 
-Event information: http://bit.ly/Z09fls
-Registration page: http://bit.ly/XK4zel
+Event information: [http://bit.ly/Z09fls](http://bit.ly/XK4zel)
+Registration page: [http://bit.ly/XK4zel](http://bit.ly/XK4zel)
 
 ### DFXML Tag Library
 *(originally published February 6, 2013)*
 
-We’re excited to announce the newest release of the DFXML TAG library,  which contains tags for all fiwalk-generated output.  The next release will contain tags for bulk extractor technical metadata and some additional file system metadata.  Special thanks to Marty Gengenbach, now the Electronic Records Archivist at the Kansas Historical Society, who began compiling the TAG Library as a master’s student at UNC SILS.
+We’re excited to announce the newest release of the [DFXML TAG library](https://docs.google.com/spreadsheet/pub?key=0AlQUChqMY8ehdGhMek5FUm00Zk9WMFFPQWIyZlg5clE&output=html),  which contains tags for all fiwalk-generated output.  The next release will contain tags for bulk extractor technical metadata and some additional file system metadata.  Special thanks to [Marty Gengenbach](http://www.kshs.org/p/electronic-records/11334), now the Electronic Records Archivist at the Kansas Historical Society, who began compiling the TAG Library as a master’s student at UNC SILS.
 
 ## 2012 Posts
 
 ### Mapping Digital Forensics Workflows in Collecting Institutions
 *(originally published November 20, 2012)*
 
-Gengenbach, Martin J. “‘The Way We Do it Here”’ Mapping Digital Forensics Workflows in Collecting Institutions.” A Master’s Paper for the M.S. in L.S degree. August, 2012.
+Gengenbach, Martin J. [“‘The Way We Do it Here”’ Mapping Digital Forensics Workflows in Collecting Institutions.”](http://digitalcurationexchange.org/system/files/gengenbach-forensic-workflows-2012.pdf) A Master’s Paper for the M.S. in L.S degree. August, 2012.
 
 *This paper presents the findings of semi-structured interviews with archivists and curators applying digital forensics tools and practices to the management of born-digital content. The interviews were designed to explore which digital forensic tools are in use, how they are implemented within a digital forensics workflow, and what further challenges and opportunities such use may present. Findings indicate that among interview participants these tools are beneficial in the capture and preservation of born-digital content, particularly with digital media such as external hard drives, and optical or floppy disks. However, interviews reveal that metadata generated from the use of such tools is not easily translated into the arrangement, description, and provision of access to born-digital content.*
 
@@ -1629,85 +1637,85 @@ See especially Marty’s descriptions and graphical representations of the insti
 
 *The following blogpost was written by Porter Olsen, BitCurator’s Research Assistant at the Maryland Institute for Technology in the Humanities (MITH).*
 
-Roughly one year ago members of the BitCurator Professional Experts Panel (PEP) met at MITH to help further refine the scope and priorities of the BitCurator project, and ensure that our efforts would have “real world” usefulness for archivists and librarians who are responsible for born-digital materials. The PEP meeting, along with a similar meeting in January of the Development Advisory Group, produced two significant results: first, revisions to a product requirements document that outlined the work to be done on the BitCurator project, including an architecture overview and feature descriptions; and second, a collection of detailed workflows that have helped us to identify where BitCurator can best fit into and enhance curatorial practices. The upcoming one-year anniversary of these initial meetings makes this a good time to take a look at how the BitCurator project has progressed and where we’re headed in the near future.
+Roughly one year ago members of the [BitCurator Professional Experts Panel (PEP) met at MITH](http://mith.umd.edu/bitcurator-team-convenes-to-analyze-digital-forensics-in-archival-workflows/) to help further refine the scope and priorities of the BitCurator project, and ensure that our efforts would have “real world” usefulness for archivists and librarians who are responsible for born-digital materials. The PEP meeting, along with a similar meeting in January of the Development Advisory Group, produced two significant results: first, revisions to a product requirements document that outlined the work to be done on the BitCurator project, including an architecture overview and feature descriptions; and second, a collection of detailed workflows that have helped us to identify where BitCurator can best fit into and enhance curatorial practices. The upcoming one-year anniversary of these initial meetings makes this a good time to take a look at how the BitCurator project has progressed and where we’re headed in the near future.
 
-The BitCurator development team is making available at test release of the BitCurator Environment, which can now be downloaded from the Releases page. The BitCurator Environment is a fully functioning Linux system built on Ubuntu 12.04 that has been customized to meet the needs of archivists and librarians, and it can be run either as a stand-alone operating system or as a virtual machine. Once installed, the BitCurator Environment includes a number of digital forensics tools that can be integrated into digital curation workflows. A sampling of those tools includes:
+The BitCurator development team is making available at test release of the BitCurator Environment, which can now be downloaded from the [Releases page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). The BitCurator Environment is a fully functioning Linux system built on Ubuntu 12.04 that has been customized to meet the needs of archivists and librarians, and it can be run either as a stand-alone operating system or as a [virtual machine](http://en.wikipedia.org/wiki/Virtual_machine#VM_definitions). Once installed, the BitCurator Environment includes a number of digital forensics tools that can be integrated into digital curation workflows. A sampling of those tools includes:
 
-Guymager: a tool for creating disk images in one of three commonly used disk image formats (dd, E01, and AFF).
-custom Nautilus scripts: A collection of enhancements to Ubuntu’s default file browser that allow users to quickly generate checksums, identify file types, safely mount drives, and more.
-bulk_extractor: a tool that locates personal identifiable information (PII) and then generates reports on that information in both human and machine readable formats.
-Ghex: an open source hex editor that allows users to view a file in hexadecimal format.
+* Guymager: a tool for creating disk images in one of three commonly used disk image formats (dd, E01, and AFF).
+* Custom Nautilus scripts: A collection of enhancements to Ubuntu’s default file browser that allow users to quickly generate checksums, identify file types, safely mount drives, and more.
+* bulk\_extractor: a tool that locates personal identifiable information (PII) and then generates reports on that information in both human and machine readable formats.
+* Ghex: an open source hex editor that allows users to view a file in hexadecimal format.
 The BitCurator environment will make additional available tools available in later releases.
 
 The BitCurator team has also been developing various forms of documentation to complement the product development. On the BitCurator wiki you can find documentation that introduces virtual machines, instructs users on how to install the BitCurator environment, and gives detailed configuration instructions on sharing devices and files between host and virtual machines. We are also currently working on developing documentation that outlines use-case scenarios for digital archivists using the tools mentioned above.
 
-It is not enough, of course, to simply build tools and a wiki page and hope users will come find our software. The BitCurator team has also been actively promoting the BitCurator Environment through lectures, panel discussions, conference talks, posters, and publications. Recent examples include presentations from Kam Woods (BitCurator technical lead), Cal Lee and Matthew Kirschenbaum (BitCurator Co-PIs) on BitCurator and digital forensics at this year’s Society of American Archivists conference in San Diego; and presentations by Cal at Archiving 2012 in Copenhagen, Denmark, Memory of the World in the Digital Age in Vancouver, Canada, the International Congress on Archives in Brisbane, Australia, and to the staff of the National Library of Australia in Canberra. In addition, team members Alex Chassanoff and Porter Olsen will present a poster on integrating digital forensics into born-digital workflows at the upcoming ASIS&T conference. We have also recently published an article in D-Lib Magazine titled “BitCurator: Tools and Techniques for Digital Forensics in Collecting Institutions.”
+It is not enough, of course, to simply build tools and a wiki page and hope users will come find our software. The BitCurator team has also been actively promoting the BitCurator Environment through lectures, panel discussions, conference talks, posters, and publications. Recent examples include presentations from Kam Woods (BitCurator technical lead), Cal Lee and Matthew Kirschenbaum (BitCurator Co-PIs) on BitCurator and digital forensics at this year’s [Society of American Archivists](http://www2.archivists.org/) conference in San Diego; and presentations by Cal at Archiving 2012 in Copenhagen, Denmark, Memory of the World in the Digital Age in Vancouver, Canada, the International Congress on Archives in Brisbane, Australia, and to the staff of the National Library of Australia in Canberra. In addition, team members Alex Chassanoff and Porter Olsen will present a poster on integrating digital forensics into born-digital workflows at the upcoming ASIS&T conference. We have also recently published an article in D-Lib Magazine titled “[BitCurator: Tools and Techniques for Digital Forensics in Collecting Institutions](http://www.dlib.org/dlib/may12/lee/05lee.html).”
 
 We have also been incorporating BitCurator elements into professional education offerings.  Cal has developed a one-day continuing education course called “Digital Forensics for Archivists” as part of the Digital Archives Specialist (DAS) curriculum of the Society of American Archivists (SAA).  Matt Kirschenbaum and Naomi Nelson (BitCurator PEP member) have been offering a course called “Born-Digital Materials: Theory & Practice” as part of the Rare Book School (RBS) at the University of Virginia.  Both the SAA and RBS courses serve as excellent mechanisms for raising awareness about BitCurator’s offerings and eliciting needs and perceptions from working professionals.
 
-These are just a few examples of the work done by the BitCurator team to get the word out about BitCurator and our work on bringing digital forensics tools and techniques the digital curation community. For a full list of BitCurator related publications and presentations, please visit our project website at www.bitcurator.net.
+These are just a few examples of the work done by the BitCurator team to get the word out about BitCurator and our work on bringing digital forensics tools and techniques the digital curation community. For a full list of BitCurator related publications and presentations, please visit our project website at [www.bitcurator.net](https://bitcurator.net/).
 
-As we look forward into the next few months, the BitCurator team has a number of goals and benchmarks that we will be working towards, chief among them being the release of the BitCurator beta later this fall. We are also organizing the second annual meeting of our Development Advisory Group for January 2013, where we will elicit feedback from DAG members on our releases to date. The day before the DAG meeting will be CurateGear 2013 on January 9 in Chapel Hill, where members of the DAG and many other experts will give presentations and run demos of software to support digital curation  And finally, we are currently in the process of applying for funding for phase two of the BitCurator project to support additional product development and further efforts to engage with working professionals who could benefit from implementation of the BitCurator tools. We invite those who are interested, especially those in collecting institutions working with born-digital materials, to follow our progress at www.bitcurator.net, or follow us on Twitter.  For those who would like to jump right in and start working with the BitCurator Environment, you can do so at the Release page and join theBitCurator Users List.
+As we look forward into the next few months, the BitCurator team has a number of goals and benchmarks that we will be working towards, chief among them being the release of the BitCurator beta later this fall. We are also organizing the second annual meeting of our Development Advisory Group for January 2013, where we will elicit feedback from DAG members on our releases to date. The day before the DAG meeting will be [CurateGear 2013](http://ils.unc.edu/digccurr/curategear2013.html) on January 9 in Chapel Hill, where members of the DAG and many other experts will give presentations and run demos of software to support digital curation  And finally, we are currently in the process of applying for funding for phase two of the BitCurator project to support additional product development and further efforts to engage with working professionals who could benefit from implementation of the BitCurator tools. We invite those who are interested, especially those in collecting institutions working with born-digital materials, to follow our progress at [www.bitcurator.net](https://bitcurator.net/), or follow us on [Twitter](https://twitter.com/bitcurator).  For those who would like to jump right in and start working with the BitCurator Environment, you can do so at the [Release page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) and join the [BitCurator Users List](https://groups.google.com/forum/#!forum/bitcurator-users).
 
 If you have questions about the BitCurator project or the role of digital forensics methods in born-digital curation, please feel free to ask them in the comments section below.
 
 ### ASIST 2012 Poster
 *(originally published October 24, 2012)*
 
-Here’s a sneak preview of the BitCurator poster we’ll be presenting at ASIST 2012 in Baltimore this coming weekend/next week.   The poster reports on results obtained in the first year of the project which include: (1) detailed workflows documenting the handling of born-digital content in several collecting institutions; (2) specifications on how BitCurator can support the implementation of digital forensics tools and methods in curatorial workflow.
+Here’s a sneak preview of the BitCurator poster we’ll be presenting at [ASIST 2012](http://www.asis.org/asist2012/) in Baltimore this coming weekend/next week.   The poster reports on results obtained in the first year of the project which include: (1) detailed workflows documenting the handling of born-digital content in several collecting institutions; (2) specifications on how BitCurator can support the implementation of digital forensics tools and methods in curatorial workflow.
 
-Poster: Integrating Digital Forensics into Born-Digital Workflows: The BitCurator Project
+Poster: [Integrating Digital Forensics into Born-Digital Workflows: The BitCurator Project](https://bitcurator.github.io/presentations/ASIST-v8.pdf)
 
 ### CurateGear 2013: Enabling the Curation of Digital Collections
 *(originally published October 24, 2012)*
 
-http://ils.unc.edu/digccurr/curategear2013.html
+[http://ils.unc.edu/digccurr/curategear2013.html](http://ils.unc.edu/digccurr/curategear2013.html)
 
 CurateGear 2013: Enabling the Curation of Digital Collections
 
 January 9, 2013, 8:00AM-5:00PM
 University of North Carolina at Chapel Hill
-William and Ida Friday Center for Continuing Education
+[William and Ida Friday Center for Continuing Education](http://fridaycenter.unc.edu/)
 
 CurateGear 2013 is an interactive day-long event focused on digital curation tools and methods. See demonstrations, hear about the latest developments, and discuss application in professional contexts. This event is sponsored by Institute of Museum and Library Services, University of North Carolina School of Information and Library Science and The Andrew W. Mellon Foundation.
 
-Register for CurateGear 2013
+[Register for CurateGear 2013](https://apps.research.unc.edu/events/index.cfm?event=events.eventDetails&event_key=4608D5AEBFF8DC2F657478C359790AABC4A0EF2C)
 
-CurateGear 2013 Agenda
+[CurateGear 2013 Agenda](http://ils.unc.edu/digccurr/curategear-2013-agenda.pdf)
 
 Symposium Speakers
 
-Jonathan Crabtree, Odum Institute for Research in Social Science
-Mark Evans, Tessella
-Lisa Gregory, State Library of North Carolina
-Barbara Guttman, National Institute of Standards and Technology
-Carolyn Hank, McGill University
-Chien-Yi Hou, University of North Carolina
-Greg Jansen, UNC Libraries
-Leslie Johnston, Library of Congress
-Cal Lee, University of North Carolina
-Jerry McDonough, University of Illinois
-Nancy McGovern, MIT Libraries
-Richard Marciano, University of North Carolina
-Mark Matienzo, Yale University
-Courtney Mumma, Artefactual Systems
-Trevor Owens, Library of Congress
-David Pearson, National Library of Australia
-Doug Reside, New York Public Library
-Ryan Scherle, Duke University
-Seth Shaw, University Archives, Duke University
-Katherine Skinner, Educopia Institute
-Mike Thuman, Tessella
-Helen Tibbo, University of North Carolina
-William Underwood, Georgia Tech
-Bram van der Werf, Executive Director, Open Planets Foundation
-Doug White, National Institute of Standards and Technology
-Kam Woods, University of North Carolina
+Jonathan Crabtree, Odum Institute for Research in Social Science  
+Mark Evans, Tessella  
+Lisa Gregory, State Library of North Carolina  
+Barbara Guttman, National Institute of Standards and Technology  
+Carolyn Hank, McGill University  
+Chien-Yi Hou, University of North Carolina  
+Greg Jansen, UNC Libraries  
+Leslie Johnston, Library of Congress  
+Cal Lee, University of North Carolina  
+Jerry McDonough, University of Illinois  
+Nancy McGovern, MIT Libraries  
+Richard Marciano, University of North Carolina  
+Mark Matienzo, Yale University  
+Courtney Mumma, Artefactual Systems  
+Trevor Owens, Library of Congress  
+David Pearson, National Library of Australia  
+Doug Reside, New York Public Library  
+Ryan Scherle, Duke University  
+Seth Shaw, University Archives, Duke University  
+Katherine Skinner, Educopia Institute  
+Mike Thuman, Tessella  
+Helen Tibbo, University of North Carolina  
+William Underwood, Georgia Tech  
+Bram van der Werf, Executive Director, Open Planets Foundation  
+Doug White, National Institute of Standards and Technology  
+Kam Woods, University of North Carolina  
 
 ### BitCurator 0.1.5 released
 *(originally published September 12, 2012)*
 
-We’ve released BitCurator 0.1.5, which you can find on the Release page.
+We’ve released BitCurator 0.1.5, which you can find on the [Release page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases).
 
 BitCurator 0.1.5 is an upgrade/maintenance release as we prepare to add reporting functionality in the next few weeks. Early reporting functionality will appear in 0.2, currently scheduled for mid-October. The current maintenance release includes updates to bulk extractor, scripting fixes for live data triage in Nautilus, and security patches.
 
@@ -1716,21 +1724,21 @@ Note that the virtual machine is now packaged as a .tar.gz file. Windows users w
 ### BitCurator requirements documents posted
 *(originally published September 11, 2012)*
 
-Current versions of the BitCurator requirements documents have been posted. You can find them on the Release page.
+Current versions of the BitCurator requirements documents have been posted. You can find them on the [Release](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) page.
 
 These documents were originally prepared during the planning stages of BitCurator, and subsequently revised following feedback from our Professional Experts Panel and Development Advisory Group.
 
 ### Digital Forensics XML and Standardization
 *(originally published September 9, 2012)*
 
-Wondering what the future of Digital Forensics XML looks like? You can find recent work by NIST at http://www.nsrl.nist.gov/Downloads.htm (with a draft schema from based on the original spec for fileobjects at http://www.nsrl.nist.gov/DFXML/fileobject.xsd). You can also find ongoing work as part of CyBOX at MITRE at http://cybox.mitre.org/.
+Wondering what the future of Digital Forensics XML looks like? You can find recent work by NIST at [http://www.nsrl.nist.gov/Downloads.htm](http://www.nsrl.nist.gov/Downloads.htm) (with a draft schema from based on the original spec for fileobjects at [http://www.nsrl.nist.gov/DFXML/fileobject.xsd](http://www.nsrl.nist.gov/DFXML/fileobject.xsd)). You can also find ongoing work as part of CyBOX at MITRE at [http://cybox.mitre.org/](http://cybox.mitre.org/).
 
 BitCurator depends on DFXML output when producing reports on private and personally identifying information, disk and file formats and organization. As part of our commitment to identifying and implementing ways in which DFXML can be used to enhance the description of and provenance records associated with archival born-digital materials, we’ve joined in a discussion with NIST, MITRE, and other interested parties on the future of standards-compliant DFXML.
 
 ### BitCurator Requirements Document (v0.9) Available
 *(originally published September 5, 2012)*
 
-This document contains the requirements for BitCurator development. Releases of this document following version 0.6 include information derived from current release and development materials documented at https://bitcurator.net/. Note that requirements for using BitCurator are located elsewhere.
+This document contains the [requirements for BitCurator development](http://www.ils.unc.edu/callee/bitcurator-basic-requirements-v9.pdf). Releases of this document following version 0.6 include information derived from current release and development materials documented at [https://bitcurator.net/](https://bitcurator.net/). Note that [requirements for using BitCurator](https://github.com/BitCurator/bitcurator-distro/wiki/Releases) are located elsewhere.
 
 ### BitCurator welcomes Sunitha Misra to the team!
 *(originally published August 2, 2012)*
@@ -1742,14 +1750,14 @@ Sunitha Misra, Masters student in the UNC School of Information and Library Scie
 
 In December 2011 and January 2012, the core BitCurator project team met with advisory group members to elicit requirements for incorporating digital forensics tools and techniques into existing institutional workflows.
 
-Based on the feedback we gathered, we’ve now drafted the steps for a BitCurator-supported workflow. We welcome additional feedback – please contact us.
+Based on the feedback we gathered, [we’ve now drafted the steps for a BitCurator-supported workflow](https://docs.google.com/spreadsheet/pub?key=0AlQUChqMY8ehdDdNZDlRQ1lEYkg2TE1VWmlqbGwtdlE&single=true&gid=13&output=html). We welcome additional feedback – please [contact us](bitcurator@gmail.com).
 
 ### BitCurator in D-Lib Magazine
 *(originally published May 15, 2012)*
 
-Read all about the BitCurator project, including current and ongoing development work, in the May/June 2012 edition of D-Lib Magazine:
+Read all about the [BitCurator project](https://bitcurator.net/), including current and ongoing development work, in the May/June 2012 edition of [D-Lib Magazine](http://www.dlib.org/dlib.html):
 
-BitCurator: Tools and Techniques for Digital Forensics in Collecting Institutions
+[BitCurator: Tools and Techniques for Digital Forensics in Collecting Institutions](http://www.dlib.org/dlib/may12/lee/05lee.html)
 
 ### Bit By Bit: Recent Projects on Digital Forensics for Collecting Institutions
 *(originally published January 24, 2012)*
@@ -1758,7 +1766,7 @@ BitCurator: Tools and Techniques for Digital Forensics in Collecting Institution
 
 The Signal, Library of Congress
 
-January 24th, 2012 by Butch Lazorchak
+January 24th, 2012 by [Butch Lazorchak](http://blogs.loc.gov/digitalpreservation/author/wlaz/)
 
 *This is a guest post by Bradley Daigle, Director of Digital Curation Services and Digital Strategist for Special Collections, University of Virginia; Matthew Kirschenbaum, Associate Professor of English and Associate Director, Maryland Institute for Technology in the Humanities (MITH), University of Maryland; and Christopher (Cal) Lee, Associate Professor at the School of Information and Library Science at the University of North Carolina at Chapel Hill.*
 
@@ -1769,31 +1777,83 @@ January 24th, 2012 by Butch Lazorchak
 
 The BitCurator project recently presented a poster at the International Digital Curation Conference in Bristol. You can check it out here!
 
-BitCurator iDCC 2011 Poster
+[BitCurator iDCC 2011 Poster](http://bitcurator.github.io/presentations/idcc-2011-poster-v6/)
 
 ### CurateGear: Enabling the Curation of Digital Collections – January 6, 2012 in Chapel Hill
 *(originally published November 2, 2011)*
 
-CurateGear: Enabling the Curation of Digital Collections
-WHAT: The DigCCurr 2012 Public Symposium Presents CurateGear! a highly
+[CurateGear: Enabling the Curation of Digital Collections](http://ils.unc.edu/digccurr/2012symposium.html)
+
+**WHAT:** The DigCCurr 2012 Public Symposium Presents CurateGear! a highly
 interactive day-long event focused on digital curation tools and
 methods. See demonstrations, hear about the latest developments, and
 discuss application in professional contexts.
 
-WHEN: Friday, January 6, 2012, 8:00 AM – 5:00 PM
+**WHEN:** Friday, January 6, 2012, 8:00 AM – 5:00 PM
 
-WHERE: Friday Center, UNC, Chapel Hill, North Carolina
+**WHERE:** Friday Center, UNC, Chapel Hill, North Carolina
 
-HOW TO REGISTER: Go to: http://tinyurl.com/3m8ajrm COST: $100 ($125 for
+**HOW TO REGISTER:** Go to: http://tinyurl.com/3m8ajrm COST: $100 ($125 for
 late registration beginning December 1st); STUDENT COST: $50.
 
 Registration includes continental breakfast, morning and afternoon
 breaks, lunch, and free parking.
 
+**Program**
+
+*8:00-8:15*  
+* Welcome and introductions - Helen Tibbo
+*8:15-8:30*  
+* Overview of the Day's Topics - Cal Lee
+*8:30-9:00*  
+Curation Needs and Behaviors  
+* Carolyn Hank – The Blog Archiving Landscape: Services and Approaches for Personal Blog Preservation
+* Matt Kirschenbaum – More than Words: Literary Authorship and Word Processing
+* Doug Reside – On Becoming a Digital Curator for the Performing Arts  
+*9:00-9:20*  
+* Break  
+*9:20-10:00*  
+Repository Management Environments  
+* Jon Crabtree – SAFE Archive
+* Mark Evans and Mike Thuman – Safety Deposit Box
+* Chien-Yi Hou and Richard Marciano – Policy-Driven Data Management
+* Peter Van Garderen – Integration of BitCurator knowledge and tools into Archivematica  
+*10:00-11:00*  
+Demo and Discussion Session – Repository Management Environments
+* Presenters from the previous session will provide demonstrations and discuss with CurateGear participants.  
+*11:00-11:20*  
+* Break  
+*11:20-12:00*  
+Metadata and Documentation  
+* Barbara Guttman and Doug White – The NSRL and Its Potential Role in Digital Curation
+* Mark Matienzo – Accessioning-based Metadata Extraction and Iterative Processing: Notes From the Field
+* David Pearson – NLA Digital Preservation Knowledgebases for Formats, Software and associated levels of support
+* Seamus Ross – DRAMBORA and the Data Audit Framework  
+*12:00-1:00*
+* Lunch  
+*1:00-2:00*  
+Demo and Discussion Session – Metadata and Documentation  
+* Presenters from the previous session will provide demonstrations and discuss with CurateGear participants.  
+*2:00-3:00*  
+Data Transformation, Processing and Access  
+* Greg Jansen – Curator’s Workbench
+* Trevor Owens – Viewshare.org: A free open platform for creating interfaces to cultural heritage collections
+* Seth Shaw – Accessioning Evolution @ Duke
+* Bill Underwood – Tools for File Format Identification, Validation and Characterization
+* Kam Woods – BitCurator  
+*3:00-3:20*  
+* Break  
+*3:20-4:20*  
+Demo and Discussion Session – Data Transformation, Processing and Access
+* Presenters from the previous session will provide demonstrations and discuss with CurateGear participants.  
+*4:20-5:00*  
+Observations and Implications  
+* Nancy McGovern, Seamus Ross, Helen Tibbo, Bram van der Werf
+
 ### Events, how to follow BitCurator, and our upcoming press release
 *(originally published September 24, 2011)*
 
-Information on BitCurator has begun to seep into the Twittersphere! If you’d like to keep track of our activity there, you can point your favorite client at our account.
+Information on BitCurator has begun to seep into the Twittersphere! If you’d like to keep track of our activity there, you can point your favorite client [at our account](http://twitter.com/#!/BitCurator).
 
 You may see some project members at the OPF Hackathon this coming week… find us and say hello!
 
