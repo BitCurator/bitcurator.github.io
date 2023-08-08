@@ -2,7 +2,12 @@ The BitCurator group on GitHub is the primary store for all source code and deve
 
 For the most up-to-date documentation on the BitCurator Environment, visit our Releases page (linked in the next section). Community development is managed by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/). Community contributions, workflows, and other information can be found [on the Confluence site managed by Educopia](https://confluence.educopia.org/display/BC). 
 
-Read additional info on the [history of the BitCurator project](https://bitcurator.github.io/bitcurator-project), the [history of the BitCurator Access project](https://bitcurator.github.io/bitcurator-access-project) and the [history of the BitCurator NLP project](https://bitcurator.github.io/bitcurator-nlp-project).
+[History of the BitCurator project](https://bitcurator.github.io/bitcurator-project)
+[History of the BitCurator Access project](https://bitcurator.github.io/bitcurator-access-project)
+[History of the BitCurator NLP project](https://bitcurator.github.io/bitcurator-nlp-project)
+[NLP4ARC events](https://bitcurator.github.io/nlp4arc)
+[Legacy bitcurator.net blog posts](https://bitcurator.github.io/legacy-blog-posts)
+[Research and publications](https://bitcurator.github.io/research)
 
 ## BitCurator Environment
 
@@ -46,10 +51,6 @@ The BitCurator NLP project includes several repositories. The topic model genera
 [https://github.com/BitCurator/bitcurator-nlp-gentm](https://github.com/BitCurator/bitcurator-nlp-gentm)
 [https://github.com/BitCurator/bitcurator-access-webtools](https://github.com/BitCurator/bitcurator-access-webtools)
 [https://github.com/BitCurator/bitcurator-nlp-entspan](https://github.com/BitCurator/bitcurator-nlp-entspan)
-
-## Research Publications
-
-Visit our [Research](https://bitcurator.github.io/research) page to see a list of publications.
 
 ## Contributors
 
