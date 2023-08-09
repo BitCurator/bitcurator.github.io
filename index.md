@@ -21,10 +21,10 @@ The BitCurator Environment is a Ubuntu-based Linux distribution designed to assi
 
 **Repository list:**
 
-[https://github.com/BitCurator/bitcurator-distro](https://github.com/BitCurator/bitcurator-distro)
-[https://github.com/BitCurator/bitcurator-cli](https://github.com/BitCurator/bitcurator-cli)
-[https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt)
-[https://github.com/BitCurator/bitcurator-docker](https://github.com/BitCurator/bitcurator-docker)
+[https://github.com/BitCurator/bitcurator-distro](https://github.com/BitCurator/bitcurator-distro)  
+[https://github.com/BitCurator/bitcurator-cli](https://github.com/BitCurator/bitcurator-cli)  
+[https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt)  
+[https://github.com/BitCurator/bitcurator-docker](https://github.com/BitCurator/bitcurator-docker)  
 
 Visit the README at [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt) to learn how to deploy BitCurator in a stock Ubuntu 22.04LTS or 20.04LTS OS.
 
@@ -36,14 +36,14 @@ The repositories listed below are end-of-life and no longer maintained.
 
 The BitCurator Access Webtools project is comprised of a single repository. The README provides instructions for both end users and developers to clone and build from source.
 
-[https://github.com/BitCurator/bitcurator-access-webtools](https://github.com/BitCurator/bitcurator-access-webtools)
+[https://github.com/BitCurator/bitcurator-access-webtools](https://github.com/BitCurator/bitcurator-access-webtools)  
 
 ### BitCurator Access Redaction Tools
 
 The BitCurator Access Redaction tools project is comprised of two repositories. The READMEs provide instructions for both end users and developers to clone and build from source.
 
-[https://github.com/BitCurator/bitcurator-access-redaction](https://github.com/BitCurator/bitcurator-access-redaction)
-[https://github.com/bitcurator/bitcurator-redact-pdf](https://github.com/bitcurator/bitcurator-redact-pdf)
+[https://github.com/BitCurator/bitcurator-access-redaction](https://github.com/BitCurator/bitcurator-access-redaction)  
+[https://github.com/bitcurator/bitcurator-redact-pdf](https://github.com/bitcurator/bitcurator-redact-pdf)  
 
 ### BitCurator NLP Tools
 
