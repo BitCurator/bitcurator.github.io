@@ -2,7 +2,7 @@ The BitCurator organization on GitHub houses the source code, documentation, and
 
 * For up-to-date documentation on deploying the BitCurator Environment, visit our [Releases page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). 
 * Community support is managed by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/). 
-* Community contributions, workflows, and other information can be found [on the Confluence site managed by Educopia](https://confluence.educopia.org/display/BC). 
+* Community contributions, workflows, and other information can be found [in our Documentation site](https://bitcurator.github.io/documentation/). 
 
 Additional information replicated from the *bitcurator.net* site:
 
