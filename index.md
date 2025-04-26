@@ -1,8 +1,8 @@
 The BitCurator organization on GitHub houses the source code, documentation, and other supporting materials for the BitCurator (2011-2014), BitCurator Access (2014-2016), and the BitCurator NLP (2016-2018) projects.
 
-* For up-to-date documentation on deploying the BitCurator Environment, visit our [Releases page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases). 
-* Community support is managed by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/). 
+* For up-to-date documentation on deploying the BitCurator Environment, visit our [Releases page](https://github.com/BitCurator/bitcurator-distro/wiki/Releases).  
 * Community contributions, workflows, and other information can be found [in our Documentation site](https://bitcurator.github.io/documentation/). 
+* Community support is managed by members of the [BitCurator Consortium](https://www.bitcuratorconsortium.org/).
 
 Additional information replicated from the *bitcurator.net* site:
 
@@ -26,7 +26,13 @@ The BitCurator Environment is a Ubuntu-based Linux distribution designed to assi
 * [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt)  
 * [https://github.com/BitCurator/bitcurator-docker](https://github.com/BitCurator/bitcurator-docker)  
 
-Visit the README at [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt) to learn how to deploy BitCurator in a stock Ubuntu 22.04LTS or 20.04LTS OS.
+Visit the README at [https://github.com/BitCurator/bitcurator-salt](https://github.com/BitCurator/bitcurator-salt) to learn how to deploy BitCurator in Ubuntu 24.04LTS or 22.04LTS OS.
+
+**BitCurator Python packages on PyPI:**
+
+Some software packaged for the BitCurator environment may be available as Python packages distributed through PyPI. Visit the BitCurator organization site on PyPI here:
+
+* [https://pypi.org/org/BitCurator/](https://pypi.org/org/BitCurator/)
 
 ## Other BitCurator Research Software
 
